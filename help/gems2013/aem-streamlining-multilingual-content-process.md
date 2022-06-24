@@ -1,0 +1,29 @@
+---
+title: Simplifique o processo de conteúdo multilíngue
+description: Saiba mais sobre as práticas recomendadas para simplificar o processo de criação e localização de conteúdo multilíngue para que seus usuários executem suas tarefas sem precisar sair da interface do usuário do CQ. As tecnologias AEM e Translations.com GlobalLink® são perfeitamente integradas aos usuários em mente. Veja Keith demonstrar como configurar e configurar sites multilíngues usando MSM, cópia de idioma e GlobalLink®. Com uma demonstração ao vivo para mostrar como é fácil para seus usuários.
+uuid: c4900ed3-f85b-4139-8e42-b5d1c03c36da
+discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
+targetaudience: target-audience advanced
+exl-id: 3a6811cf-f74d-4915-9a02-896733ea874f
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 0%
+
+---
+
+# Simplifique o processo de conteúdo multilíngue{#streamlining-multilingual-content-process}
+
+Você está procurando as práticas recomendadas para simplificar o processo de criação e localização de conteúdo multilíngue para que os usuários executem suas tarefas sem precisar sair da interface do usuário do CQ? Esta sessão é para você! As tecnologias AEM e Translations.com GlobalLink® são perfeitamente integradas aos usuários em mente. Nesta sessão, Keith demonstra como configurar e configurar sites multilíngues usando MSM, Language Copy e GlobalLink®. Com uma demonstração ao vivo para mostrar como é fácil para seus usuários.
+
+>[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
+
+*Entregue em 30 de outubro de 2013*
+
+**Apresentado por:**
+
+Keith Brazil, VP de Tecnologia, Translations.com
+
+<!--
+[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->

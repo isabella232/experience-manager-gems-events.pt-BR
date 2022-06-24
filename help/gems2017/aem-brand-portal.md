@@ -1,0 +1,42 @@
+---
+title: Versão principal da Brand Portal e nova implementação de referência para o Compartilhamento de ativos
+description: Os portais de mídia são essenciais para que as organizações compartilhem ativos internamente e, em muitos casos, externamente. Nesta sessão, apresentamos você ao novo Compartilhamento de ativos Commons do Adobe Assets.
+uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
+discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
+targetaudience: target-audience advanced
+exl-id: 01be713d-991e-4d72-b9d4-48af60793c54
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 1%
+
+---
+
+# Versão principal da Brand Portal e nova implementação de referência para o Compartilhamento de ativos{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
+
+Os portais de mídia são essenciais para que as organizações compartilhem ativos internamente e, em muitos casos, externamente. Nesta sessão, apresentaremos você ao novo Compartilhamento de ativos Commons do Adobe Assets.
+
+Você aprenderá:
+
+* Quais opções do portal de mídia estão disponíveis com base em casos de uso
+* Como implementar essas opções
+* Práticas recomendadas para garantir a facilidade de uso
+
+>[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
+
+*Entregue em 8 de novembro de 2017*
+
+**Apresentado por:**
+
+Mike Carley, gerente de marketing de produtos - [!DNL AEM Assets], Adobe
+
+Krishna Selvaraj, Engenheiro Técnico de Marketing - AEM, Adobe
+
+Daniel Gordon, Engenheiro Técnico de Marketing - AEM, Adobe
+
+**Slides do apresentador**
+
+[Obter arquivo](assets/gems+bp-asset+share+nov+8+17+.pdf)
+<!--
+[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+-->
