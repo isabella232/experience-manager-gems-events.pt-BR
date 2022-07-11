@@ -1,27 +1,33 @@
 ---
-title: AEM sustenance - Best practices for deploying AEM maintenance releases
-description: Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
+title: AEM de manutenção - Práticas recomendadas para implantar versões de manutenção AEM
+description: Junte-se a nós para conhecer as práticas recomendadas para a implantação das versões de manutenção AEM, ou seja, Service Packs e Cumulative Fix Packs. Também cobriremos os desafios comuns na sua implantação e demonstraremos as melhorias feitas no gerenciador de pacotes. Nesta sessão, você aprenderá as práticas recomendadas, validações e dicas de monitoramento para implantações de versões de manutenção.
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 1%
+
 ---
 
-# AEM sustenance - Best practices for deploying AEM maintenance releases{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 
-Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
+# AEM de manutenção - Práticas recomendadas para implantar versões de manutenção AEM{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
+
+Junte-se a nós para conhecer as práticas recomendadas para a implantação das versões de manutenção AEM, ou seja, Service Packs e Cumulative Fix Packs. Também cobriremos os desafios comuns na sua implantação e demonstraremos as melhorias feitas no gerenciador de pacotes. Nesta sessão, você aprenderá as práticas recomendadas, validações e dicas de monitoramento para implantações de versões de manutenção.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*Delivered June 28,2017*
+*Entregue em 28 de junho de 2017*
 
-**Presented by:**
+**Apresentado por:**
 
-* Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
-* Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
+* Gurpreet Singh Bhatia, Engenheiro de Software Líder, Engenharia AEM Sustentada, Adobe
+* Karanjeet Singh, Engenheiro Sênior de Software, Engenharia AEM Sustentada, Adobe
 
-**Presenter slides**
+**Slides do apresentador**
 
-[Get File](assets/aem-sustenance-best-practices-gems.pdf)
+[Obter arquivo](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

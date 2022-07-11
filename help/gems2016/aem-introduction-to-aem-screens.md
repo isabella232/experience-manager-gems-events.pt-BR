@@ -1,33 +1,39 @@
 ---
-title: Introduction to AEM Screens
-description: AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+title: Introdução ao AEM Screens
+description: O AEM Screens é a nova solução de sinalização digital integrada ao Adobe Experience Manager. Nesta sessão AEM do Gems, apresentaremos os principais recursos do AEM Screens e como configurar um projeto simples com uma apresentação de slides e uma experiência interativa. Em seguida, fornecemos uma visão geral de como desenvolver componentes otimizados para AEM Screens e como configurar Canais para uso offline. Por fim, exploraremos a API REST do AEM Screens e explicaremos como integrar plug-ins Cordova personalizados.
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: b68e5d95-876d-48c5-874d-5b9459c56220
----
-# Introduction to AEM Screens{#introduction-to-aem-screens}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 5%
 
-AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+---
+
+# Introdução ao AEM Screens{#introduction-to-aem-screens}
+
+O AEM Screens é a nova solução de sinalização digital integrada ao Adobe Experience Manager. Nesta sessão AEM do Gems, apresentaremos os principais recursos do AEM Screens e como configurar um projeto simples com uma apresentação de slides e uma experiência interativa. Em seguida, fornecemos uma visão geral de como desenvolver componentes otimizados para AEM Screens e como configurar Canais para uso offline. Por fim, exploraremos a API REST do AEM Screens e explicaremos como integrar plug-ins Cordova personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Delivered November 16, 2016*
+*Entregue em 16 de novembro de 2016*
 
-**Presented by:**
+**Apresentado por:**
 
-* Julien Ramboz, UI Developer, Adobe
-* Tobias Reiss, Computer Scientist, Software Development, Adobe
+* Julien Ramboz, Desenvolvedor da interface do usuário, Adobe
+* Tobias Reiss, Cientista da computação, Desenvolvimento de software, Adobe
 
-**Presenter slides**
+**Slides do apresentador**
 
-[Get File](assets/2016-11-16-aem-screens.pdf)
+[Obter arquivo](assets/2016-11-16-aem-screens.pdf)
 
-Sample Project
+Exemplo de projeto
 
-[Get File](assets/aemscreensgems.zip)
+[Obter arquivo](assets/aemscreensgems.zip)
 
-## Related links {#related-links}
+## Links relacionados {#related-links}
 
-* [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+* [Implantação do Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
+* [Conceito do Screens](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

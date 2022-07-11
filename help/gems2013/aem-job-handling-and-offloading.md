@@ -1,35 +1,41 @@
 ---
-title: Introduction to job handling and offloading in AEM 5.6.1.
-description: Get a technical introduction of the advanced job handling features. Job handling is the underlying infrastructure for features like replication and workflow processing. Learn about the discovery module alongside with the improved job processing API and new features.
+title: Introdução à manipulação e descarga de tarefas no AEM 5.6.1.
+description: Obtenha uma introdução técnica dos recursos avançados de manipulação de tarefas. A manipulação de tarefas é a infraestrutura subjacente para recursos como replicação e processamento de workflow. Saiba mais sobre o módulo de descoberta junto com a API de processamento de trabalho aprimorada e novos recursos.
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: 9fa2f9a8-86de-4791-ac40-6406e0336e08
----
-# Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '207'
+ht-degree: 1%
 
-Job handling is the underlying infrastructure for features like replication and workflow processing. This is a technical introduction of the advanced job handling features. We discuss the new discovery module alongside with the improved job processing API and the new features. Building on top of the job handling and discovery, the offloading framework focuses on distributing jobs among non-clustered instances. We'll take a closer look into how offloading extends the distributed job handling. Then we look at how it's used for the current implementation of workflow offloading and how one can use it in its own project. 
+---
+
+# Introdução da manipulação e descarga de tarefas no AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
+
+A manipulação de tarefas é a infraestrutura subjacente para recursos como replicação e processamento de workflow. Trata-se de uma introdução técnica dos recursos avançados de gestão de postos de trabalho. Discutimos o novo módulo de descoberta junto com a API de processamento de trabalho aprimorada e os novos recursos. Com base na manipulação e descoberta de tarefas, a estrutura de descarregamento se concentra na distribuição de tarefas entre instâncias sem cluster. Analisaremos mais detalhadamente como a descarga estende o manuseio distribuído de tarefas. Em seguida, observamos como ele é usado para a implementação atual da descarregamento do workflow e como você pode usá-lo em seu próprio projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Delivered July 24, 2013*
+*Entregue em 24 de julho de 2013*
 
-**Presented by:**
+**Apresentado por:**
 
-Carsten Ziegeler, Senior Developer, Adobe
+Carsten Ziegeler, Desenvolvedor Sênior, Adobe
 
-Marc Pfaff, Lead Developer, Adobe
+Marc Pfaff, Desenvolvedor Líder, Adobe
 
-Presenter slides - Part 1
+Slides do apresentador - Parte 1
 
-[Get File](assets/jobhandling.pdf)
+[Obter arquivo](assets/jobhandling.pdf)
 
-Presenter slides - Part 2
+Slides do apresentador - Parte 2
 
-[Get File](assets/offloading.pdf)
+[Obter arquivo](assets/offloading.pdf)
 
-## Related links {#related-links}
+## Links relacionados {#related-links}
 
-* [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Evento e manipulação do trabalho do Apache Sling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [API de descoberta e suas implementações](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Descarregamento de Tarefas](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

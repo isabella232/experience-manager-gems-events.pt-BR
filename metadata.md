@@ -4,27 +4,33 @@ solution: Experience Manager
 product: adobe experience manager
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.en
-index: yes
+git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.pt-BR
+index: true
+source-git-commit: 34a9797488b4ad73feba99d4ae76a79df8df7418
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 96%
+
 ---
 
-# Metadata for internal use
 
-The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
+# Metadados para uso interno
 
-| metadata | what it does |
+O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo de metadata.md de qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+
+| metadados | para que serve |
 |--- |--- |
-| solution-title | Used in article header as link |
-| solution-hub-url | Opens helpx hub page |
-| solution-icon | Displays solution icon next to solution title. Not yet implemented |
-| getting-started-url | Link to helpx getting started page |
-| tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
-| mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| solution-title | Usado no cabeçalho do artigo como link |
+| solution-hub-url | Abre a página de ajuda do hub |
+| solution-icon | Exibe o ícone da solução ao lado do título da solução. Ainda não implementado |
+| getting-started-url | Link para a página de introdução |
+| tutorials-url | Link para tutoriais em vídeo — tutoriais de ajuda ou tutoriais de KT |
+| mini-toc-levels | Calcula o número de níveis de cabeçalho exibidos no painel direito. O padrão é 2 |
+| git-repo | Especifica o local do repositório principal para uso interno |
 
-In TOC.md file
+No arquivo TOC.md
 
-| metadata | what it does |
+| metadados | o que faz |
 |--- |--- |
-| user-guide-title | Used in article header as link |
-| user-guide-url | Opens helpx hub page |
+| user-guide-title | Usado no cabeçalho do artigo como link |
+| user-guide-url | Abre a página de ajuda do hub |

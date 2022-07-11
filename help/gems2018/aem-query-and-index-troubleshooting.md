@@ -1,27 +1,33 @@
 ---
-title: AEM Query and Index Troubleshooting
-description: This is a continuation of last year's session AEM Indexing and JCR Query. It covers the same topics, but with all-new content and have little overlap with the older presentation. Also included are new features of AEM 6.4.
+title: Solução de problemas de consulta e índice de AEM
+description: Esta é a continuação da sessão do ano passado AEM Indexação e Consulta JCR. Abrange os mesmos tópicos, mas com conteúdo totalmente novo e tem pouca sobreposição com a apresentação mais antiga. Estão também incluídos novos recursos do AEM 6.4.
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
 deletedby: gbrodnik
 discoiquuid: 0904a311-26a9-4748-ad45-aa53c2673c4c
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '59'
+ht-degree: 3%
+
 ---
 
-# AEM Query and Index Troubleshooting{#aem-query-and-index-troubleshooting}
+
+# Solução de problemas de consulta e índice de AEM{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*Delivered 08/08/2018*
+*Entregue em 08/08/2018*
 
-**Presented by:**
+**Apresentado por:**
 
-Thomas Mueller, Senior Software Engineer, Adobe
+Thomas Mueller, Engenheiro de Software Sênior, Adobe
 
-Date: 08/08/2018
+Data: 08/08/2018
 
-[Get File](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
+[Obter arquivo](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

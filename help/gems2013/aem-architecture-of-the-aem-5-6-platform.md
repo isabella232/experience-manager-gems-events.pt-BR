@@ -1,34 +1,40 @@
 ---
-title: Architecture of the AEM 5.6 platform
-description: Learn about the evolution of the architecture of the AEM application platform. Since the first release of Communiqué 1, until the most recent launch of AEM 5.6, the application underwent several changes to become the versatile and extensible application platform it is today.
+title: Arquitetura da plataforma AEM 5.6
+description: Saiba mais sobre a evolução da arquitetura da plataforma de aplicativos AEM. Desde a primeira versão do Communiqué 1, até o lançamento mais recente do AEM 5.6, o aplicativo sofreu várias alterações para se tornar a plataforma de aplicativo versátil e extensível que é hoje.
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
----
-# Architecture of the AEM 5.6 platform{#architecture-of-the-aem-platform}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 4%
 
-Learn about the evolution of the architecture of the AEM Application Platform. Since the first release of Communiqué 1 until the most recent launch of AEM 5.6 the application underwent several massive changes to become the versatile and extensible application platform it is now.
+---
+
+# Arquitetura da plataforma AEM 5.6{#architecture-of-the-aem-platform}
+
+Saiba mais sobre a evolução da arquitetura da Plataforma de aplicativos AEM. Desde a primeira versão do Communiqué 1 até o lançamento mais recente do AEM 5.6, o aplicativo sofreu várias alterações maciças para se tornar a plataforma de aplicativos versátil e extensível, ela é agora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Delivered May 8, 2013*
+*Entregue em 8 de maio de 2013*
 
-**Presented by:**
+**Apresentado por:**
 
-Felix Meschberger, Principal Scientist, Adobe
+Felix Meschberger, Cientista Principal, Adobe
 
-**Presenter slides**
+**Slides do apresentador**
 
-[Get File](assets/20130508-aem56-architecture.pdf)
+[Obter arquivo](assets/20130508-aem56-architecture.pdf)
 
-**Session questions and answers**
+**Perguntas e respostas da sessão**
 
-[Get File](assets/questionsanswers-aem56-architecture.pdf)
+[Obter arquivo](assets/questionsanswers-aem56-architecture.pdf)
 
-## Related links {#related-links}
+## Links relacionados {#related-links}
 
-[Documentation](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
+[Documentação](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
