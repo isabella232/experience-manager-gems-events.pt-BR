@@ -1,33 +1,27 @@
 ---
-title: Criação de experiências Omnichannel sem cabeçalho com o AEM 6.5
-description: Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes de ritmo rápido na paisagem digital em evolução. Saiba como as mais recentes inovações do Adobe Experience Manager 6.5 podem tornar isso possível. Desenvolva as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e o delivery de experiências entre canais. Introdução à Estrutura de serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
+title: Creating Headless Omnichannel Experiences with AEM 6.5
+description: You need to create the next level of fluid experiences to keep up with your fast-paced customers in the evolving digital landscape. Learn how the latest innovations in Adobe Experience Manager 6.5 can make it possible. Deep-dive into key innovations such as Single-Page Application (SPA) Editor, Content & Experience fragments, In-context editing, and many more. Best practices for leveraging the above innovations to accelerate and automate the design and delivery of experiences across channels. Introduction to the Content Services Framework in Adobe Experience Manager. A demo of the customer journey across mobile, single page applications, and email. Architectural considerations when designing for mature and emerging channels.
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 0%
-
 ---
 
+# Creating Headless Omnichannel Experiences with AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
 
-# Criação de experiências Omnichannel sem cabeçalho com o AEM 6.5{#creating-headless-omnichannel-experiences-with-aem}
-
-Você precisa criar o próximo nível de experiências fluidas para acompanhar seus clientes de ritmo rápido na paisagem digital em evolução. Saiba como as mais recentes inovações do Adobe Experience Manager 6.5 podem tornar isso possível. Desenvolva as principais inovações, como o Editor de aplicativo de página única (SPA), Fragmentos de conteúdo e experiência, Edição no contexto e muito mais. Práticas recomendadas para aproveitar as inovações acima para acelerar e automatizar o design e o delivery de experiências entre canais. Introdução à Estrutura de serviços de conteúdo no Adobe Experience Manager. Uma demonstração da jornada do cliente em aplicativos móveis de página única e email. Considerações de arquitetura ao projetar para canais maduros e emergentes.
+You need to create the next level of fluid experiences to keep up with your fast-paced customers in the evolving digital landscape. Learn how the latest innovations in Adobe Experience Manager 6.5 can make it possible. Deep-dive into key innovations such as Single-Page Application (SPA) Editor, Content & Experience fragments, In-context editing, and many more. Best practices for leveraging the above innovations to accelerate and automate the design and delivery of experiences across channels. Introduction to the Content Services Framework in Adobe Experience Manager. A demo of the customer journey across mobile, single page applications, and email. Architectural considerations when designing for mature and emerging channels.
 
 >[!NOTE]
 >
->Este webinário foi fornecido dentro do Experience Insider e é mantido aqui para referência.
+>This webinar was delivered within Experience Insider and is kept here for reference.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*Entregue em 16/04/19*
+*Delivered 04/16/19*
 
-**Apresentado por:**
+**Presented by:**
 
-* Amol Anand, Consultor Principal, Arquitetura Técnica, Adobe
+* Amol Anand, Principal Consultant, Technical Architect, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/headless-omnichannelwebinar04162019.pdf)
+[Get File](assets/headless-omnichannelwebinar04162019.pdf)

@@ -1,33 +1,27 @@
 ---
-title: Solução de problemas do CQ/AEM 5.6
-description: Saiba mais sobre as diretrizes sobre como solucionar problemas de um aplicativo baseado em CQ/AEM (5.6), juntamente com algumas práticas recomendadas e alguns exemplos sobre como a boa metodologia pode ajudar a encurtar o caminho da solução.
+title: CQ/AEM 5.6 troubleshooting
+description: Learn the guidelines on how to troubleshoot a CQ/AEM (5.6)-based application, along with some best practices and a few examples on how good methodology can help shorten the solution path.
 uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: bcae8bf9-7d3d-418e-8c40-adb10fecac5b
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 3%
-
 ---
+# CQ/AEM 5.6 troubleshooting{#cq-aem-troubleshooting}
 
-# Solução de problemas do CQ/AEM 5.6{#cq-aem-troubleshooting}
-
-Nesta sessão, forneceremos diretrizes sobre como solucionar problemas de um aplicativo baseado em CQ/AEM (5.6), juntamente com algumas práticas recomendadas e alguns exemplos sobre como a boa metodologia pode ajudar a encurtar o caminho da solução.
+In this session we will provide guidelines on how to troubleshoot a CQ/AEM (5.6) based application, along with some best practices and a few examples on how good methodology can help to shorten the solution path.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*Entregue em 2 de outubro de 2013*
+*Delivered October 2, 2013*
 
-**Apresentado por:**
+**Presented by:**
 
-Thierry Yge, Engenheiro Sênior de Suporte, Adobe
+Thierry Yge, Senior Support Engineer, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/gems-cq-troubleshoot-ppt-2.pdf)
+[Get File](assets/gems-cq-troubleshoot-ppt-2.pdf)
 
-## Links relacionados {#related-links}
+## Related links {#related-links}
 
-[Documentação](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)
+[Documentation](http://docs.adobe.com/docs/en/cq/current/howto/troubleshoot.html)

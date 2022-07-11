@@ -1,39 +1,33 @@
 ---
-title: Ferramentas de desenvolvedor do AEM para Eclipse
-description: O AEM Developer Tools for Eclipse é um conjunto de plug-ins do Eclipse destinados a facilitar AEM desenvolvimento de aplicativos, de forma mais direta e alinhada às práticas recomendadas. Com base em duas novas fachadas do projeto - uma para pacotes OSGi e outra para conteúdo JCR - ele permite sincronização contínua e iterativa entre instâncias do Eclipse e do AEM. Ele vem com um Navegador de conteúdo que permite exibir e editar conteúdo formatado pelo FileVault. Por último, mas não menos importante, contém uma amostra de projeto baseado em maven, com vários módulos, que pode ser usada para bootstrapping de uma configuração de projeto.
+title: AEM Developer Tools for Eclipse
+description: The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 3d8db8a1-d2a7-48ed-bd56-9430f17298e1
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 7%
-
 ---
+# AEM Developer Tools for Eclipse{#aem-developer-tools-for-eclipse}
 
-# Ferramentas de desenvolvedor do AEM para Eclipse{#aem-developer-tools-for-eclipse}
-
-O AEM Developer Tools for Eclipse é um conjunto de plug-ins do Eclipse destinados a facilitar AEM desenvolvimento de aplicativos, de forma mais direta e alinhada às práticas recomendadas. Com base em duas novas fachadas do projeto - uma para pacotes OSGi e outra para conteúdo JCR - ele permite sincronização contínua e iterativa entre instâncias do Eclipse e do AEM. Ele vem com um Navegador de conteúdo que permite exibir e editar conteúdo formatado pelo FileVault. Por último, mas não menos importante, contém uma amostra de projeto baseado em maven, com vários módulos, que pode ser usada para bootstrapping de uma configuração de projeto.
+The AEM Developer Tools for Eclipse is a set of Eclipse plugins aimed at making AEM application development easier, more straight forward and aligned with best-practices. Based on two new project facades - one for OSGi bundles and one for JCR content - it allows seamless and iterative synchronization between Eclipse and AEM instances. It comes with a Content Browser which allows displaying and editing of FileVault-formatted content. Last but not least, it contains a sample, multi-module, maven-based project that can be used for bootstrapping a project setup.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
-*Entregue em 20 de agosto de 2014*
+*Delivered August 20, 2014*
 
-**Apresentado por:**
+**Presented by:**
 
-Stefan Egli, Desenvolvedor, Adobe
+Stefan Egli, Developer, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/aem-dev-tools-cq-gems.pdf)
+[Get File](assets/aem-dev-tools-cq-gems.pdf)
 
-## Links relacionados {#related-links}
+## Related links {#related-links}
 
-* [Ferramentas de desenvolvedor do AEM para Eclipse - documentação](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
-* [Site de download das ferramentas do desenvolvedor do AEM](http://eclipse.adobe.com/aem/dev-tools/)
-* [Ferramentas IDE Sling](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [Fórum de discussões e perguntas](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
-* [Emitir relatórios e rastreamento](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js: Estrutura de teste da interface do usuário](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [Volte para a Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [AEM Developer Tools for Eclipse - documentation](http://docs.adobe.com/docs/en/dev-tools/aem-eclipse.html)
+* [AEM Developer Tools Download Site](http://eclipse.adobe.com/aem/dev-tools/)
+* [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
+* [Forum for discussions & questions](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
+* [Issue reporting & tracking](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
+* [Hobbes.js: UI Testing Framework](http://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
+* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

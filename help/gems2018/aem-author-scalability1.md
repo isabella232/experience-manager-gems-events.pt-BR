@@ -1,32 +1,26 @@
 ---
-title: Experimentos na escalabilidade do autor do AEM
-description: Dimensionar autores do AEM é basicamente sobre dimensionar o Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experiências que foram feitas para explorar como escalar AEM e Oak. Nós cobriremos o que aprendemos com esses experimentos, como o que aprendemos afeta o modo como pensamos sobre armazenamento de conteúdo avançando, projetos e ferramentas que surgiram desses experimentos, e também algumas tomadas surpreendentes e não intuitivas.
+title: Experiments in AEM Author Scalability
+description: Scaling AEM Authors is primarily about scaling Oak, but what is the best way to do that? In this session we will cover a number of experiments that have been done to explore how to scale AEM and Oak. We will cover what was learned from these experiments, how what we learned affects how we think of content storage moving forward, projects and tools that have come from these experiments, and also some surprising and non-intuitive takeaways.
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
-
 ---
 
+# Experiments in AEM Author Scalability{#experiments-in-aem-author-scalability}
 
-# Experimentos na escalabilidade do autor do AEM{#experiments-in-aem-author-scalability}
-
-Dimensionar autores do AEM é basicamente sobre dimensionar o Oak, mas qual é a melhor maneira de fazer isso? Nesta sessão, abordaremos uma série de experiências que foram feitas para explorar como escalar AEM e Oak. Nós cobriremos o que aprendemos com esses experimentos, como o que aprendemos afeta o modo como pensamos sobre armazenamento de conteúdo avançando, projetos e ferramentas que surgiram desses experimentos, e também algumas tomadas surpreendentes e não intuitivas.
+Scaling AEM Authors is primarily about scaling Oak, but what is the best way to do that? In this session we will cover a number of experiments that have been done to explore how to scale AEM and Oak. We will cover what was learned from these experiments, how what we learned affects how we think of content storage moving forward, projects and tools that have come from these experiments, and also some surprising and non-intuitive takeaways.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 
-*Entregue em 7 de fevereiro de 2018*
+*Delivered February 7, 2018*
 
-**Apresentado por:**
+**Presented by:**
 
-Matt Ryan, Engenheiro de Software Sênior, Adobe
+Matt Ryan, Sr. Software Engineer, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
+[Get File](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

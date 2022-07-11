@@ -1,29 +1,23 @@
 ---
-title: Aproveitamento da publicação de autores para o AEM Screens
-description: Obtenha uma configuração de produção completa para o AEM Screens e aprenda todas as etapas necessárias para publicar conteúdo no player do Screens/Digital Signage.
+title: Leveraging author-publish for AEM Screens
+description: Get a full production setup for AEM Screens and learn all necessary steps for publishing content onto Screens / Digital Signage player.
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 2%
-
 ---
 
+# Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-# Aproveitamento da publicação de autores para o AEM Screens{#leveraging-author-publish-for-aem-screens}
+In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
 
-Nesta sessão do Gems, realizaremos uma configuração de produção completa para o AEM Screens e explicaremos todas as etapas necessárias para publicar conteúdo no player do Screens/Digital Signage. Saiba como aproveitar a topologia de publicação de autor para o AEM Screens. Pré-visualize as etapas que um autor precisa fazer para publicar atualizações de conteúdo e distribuí-las para os dispositivos. Além disso, teremos uma visão mais atenta da arquitetura por trás deste fluxo. Além disso, você descobrirá a configuração necessária para o cluster de publicação, replicação e dispositivos.
+**Presented by:**
 
-**Apresentado por:**
-
-Iulia Grumaz, Cientista da Computação, Desenvolvimento de Software, Adobe
+Iulia Grumaz, Computer Scientist, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Entregue em 4 de setembro de 2019*
+*Delivered September 4, 2019*
 
-Apresentação
+Presentation
 
-[Obter arquivo](assets/leveraging-author-publish-aem-screens-final.pdf)
+[Get File](assets/leveraging-author-publish-aem-screens-final.pdf)

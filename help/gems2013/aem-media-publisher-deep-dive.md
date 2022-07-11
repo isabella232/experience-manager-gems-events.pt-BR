@@ -1,35 +1,29 @@
 ---
-title: mergulho profundo do Media Publisher do AEM 5.6
-description: Obtenha uma visão geral da Commerce Framework CQ 5.6 de uma perspectiva arquitetônica. Saiba mais sobre os detalhes da implementação de referência, com base no repositório JCR.
+title: AEM 5.6 Media Publisher deep dive
+description: Get an overview of the CQ 5.6 Commerce Framework from an architectural perspective. Learn the details of the reference implementation, based on the JCR repository.
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: 4efa0469-a5fd-41c9-9702-7de0fbc9db5a
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
-
 ---
+# AEM 5.6 Media Publisher deep dive {#aem-media-publisher-deep-dive}
 
-# mergulho profundo do Media Publisher do AEM 5.6 {#aem-media-publisher-deep-dive}
-
-Como parte do Adobe Experience Manager, o CQ 5.6 fornece uma nova Estrutura de comércio para criar sites de comércio orientado pela experiência em uma plataforma de comércio de terceiros. Esta sessão fornece uma visão geral da estrutura de uma perspectiva arquitetônica e apresenta alguns detalhes da implementação de referência, com base no repositório JCR.
+As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce Framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents some details of the reference implementation, based on the JCR repository.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*Entregue em 17 de abril de 2013*
+*Delivered April 17, 2013*
 
-**Apresentado por:**
+**Presented by:**
 
 John Fait
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
+[Get File](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 
-## Links relacionados {#related-links}
+## Related links {#related-links}
 
-* [Documentação](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [Página do produto DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [Cloud Service DPS](https://digitalpublishing.acrobat.com/welcome.html)
+* [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
+* [DPS Product Page](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS Cloud Service](https://digitalpublishing.acrobat.com/welcome.html)

@@ -1,32 +1,26 @@
 ---
-title: Gerenciamento AEM DataStore
-description: 'A sessão fornece uma visão geral do DataStore (DS) e detalhes sobre a configuração e manutenção do DS para várias topologias compatíveis no AEM. Além disso, as dicas de solução de problemas, incluindo o DS GC, são abordadas. '
+title: Managing AEM DataStore
+description: The session provides an overview of the DataStore (DS) and details on configuration and maintenance of DS for various supported topologies in AEM. Also, covered are troubleshooting tips including for DS GC. 
 uuid: 65aabe5c-2f33-4caf-a01c-803e2c71f49d
 discoiquuid: 2d92a9bf-4a98-46d9-8b4c-583654e5bac0
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
-
 ---
 
+# Managing AEM DataStore{#managing-aem-datastore}
 
-# Gerenciamento AEM DataStore{#managing-aem-datastore}
-
-A sessão fornecerá uma visão geral do DataStore (DS) e detalhes sobre a configuração e manutenção do DS para várias topologias compatíveis no AEM. Além disso, as dicas de solução de problemas, incluindo o DS GC, são abordadas.
+The session will provide an overview of the DataStore (DS) and details on configuration and maintenance of DS for various supported topologies in AEM. Also, covered are troubleshooting tips including for DS GC. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*Entregue em 11 de outubro de 2017*
+*Delivered October 11, 2017*
 
-**Apresentado por:**
+**Presented by:**
 
-Amit Jain, Sr. Cientista da Computação, Adobe
+Amit Jain, Sr. Computer Scientist, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/managing-aem-datastoreoct17.pdf)
+[Get File](assets/managing-aem-datastoreoct17.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

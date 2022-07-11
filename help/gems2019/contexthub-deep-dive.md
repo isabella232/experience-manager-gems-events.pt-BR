@@ -1,33 +1,27 @@
 ---
-title: Saiba mais sobre detalhes de implementação de armazenamentos, módulos e segmentos no ContextHub
-description: Essas sessões do Gems são dedicadas a uma análise mais detalhada dos detalhes de implementação de armazenamentos do ContextHub de diferentes tipos, usando diferentes camadas de persistência. Implementação de módulos personalizados (via código e configuração usando o renderizador de módulo base), bem como como organizar módulos em modos separados do ContextHub. Por fim, veremos como as características do segmento do ContextHub estão funcionando, como implementar o comparador personalizado e como instanciar segmentos programaticamente.
+title: Deep Dive on implementation details of stores, modules and segments in ContextHub
+description: This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
-
 ---
 
+# Deep Dive on implementation details of stores, modules and segments in ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-# Saiba mais sobre detalhes de implementação de armazenamentos, módulos e segmentos no ContextHub{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
-
-Essas sessões do Gems são dedicadas a uma análise mais detalhada dos detalhes de implementação de armazenamentos do ContextHub de diferentes tipos, usando diferentes camadas de persistência. Implementação de módulos personalizados (via código e configuração usando o renderizador de módulo base), bem como como organizar módulos em modos separados do ContextHub. Por fim, veremos como as características do segmento do ContextHub estão funcionando, como implementar o comparador personalizado e como instanciar segmentos programaticamente.
+This Gems sessions is dedicated to have a closer look on implementation details of ContextHub stores of different types, using different persistence layers. Custom modules implementation (both via code and configuration using base module renderer), as well as how to organize modules in separate ContextHub modes. Lastly, we will see how ContextHub segment traits are working, how to implement custom comparator and how to instantiate segments programatically.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*Entregue em 20/03/19*
+*Delivered 03/20/19*
 
-**Apresentado por:** Artur Kudlacz, Desenvolvedor, Adobe
+**Presented by:** Artur Kudlacz, Developer, Adobe
 
-Slides do apresentador, Data: 20/03/2019
+Presenter slides, Date: 03/20/2019
 
-[Obter arquivo](assets/aem-gems-contexthubdeepdive-03202019.pdf)
+[Get File](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 
-Pacote de amostra do ContextHub:
+ContextHub sample package:  
 
-O pacote de amostra do ContextHub mencionado em Artur está disponível em:
+Artur's mentioned ContextHub sample package is available on:  
 
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)

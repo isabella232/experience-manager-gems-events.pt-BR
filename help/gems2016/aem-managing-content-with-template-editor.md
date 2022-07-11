@@ -1,38 +1,32 @@
 ---
-title: Gerenciamento de conteúdo com o editor de modelo do Adobe Experience Manager
-description: Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece novas e eficientes maneiras de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Por fim, mergulhe na mecânica interna para entender como funciona sob o capuz.
+title: Managing your content with the template editor of Adobe Experience Manager
+description: With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: c4f5077f-9e10-4bcc-8f7a-60b67b282838
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 3%
-
 ---
+# Managing your content with the template editor of Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
-# Gerenciamento de conteúdo com o editor de modelo do Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
-
-Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece novas e eficientes maneiras de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Por fim, mergulhe na mecânica interna para entender como funciona sob o capuz. Nesta sessão: - Saiba como o editor de modelos pode tornar os sites mais flexíveis - Tenha uma visão geral de como os mecanismos de modelos operam
+With Adobe Experience Manager 6.2 a new template editor has been introduced that provides new, powerful ways to build, structure and configure digital properties. Explore the feature from a super-author perspective to understand how it allows to compose different page templates and control exactly what content authors are allowed to do on the corresponding pages. Finally, dive into the inner mechanics to understand how it works under the hood. In this session: - Learn how the template editor can make sites more flexible - Have an overview of how the templating mechanics operate
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Entregue em 14 de setembro de 2016*
+*Delivered September 14, 2016*
 
-**Apresentado por:**
+**Presented by:**
 
-* Patrick Fauchere, Engenheiro de Software, Adobe
+* Patrick Fauchere, Software Engineer, Adobe
 
-Especialista em chat,
+Chat expert,
 
-* Gabriel Walt, Gerente de produtos, Adobe
+* Gabriel Walt, Product Manager, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/aem-gems-91416-template-editor.pdf)
+[Get File](assets/aem-gems-91416-template-editor.pdf)
 
-## Links relacionados {#related-links}
+## Related links {#related-links}
 
-* [Modelos de páginas](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Criação de modelos de páginas  ](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+* [Page Templates](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
+* [Creating Page Templates](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)

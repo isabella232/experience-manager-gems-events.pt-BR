@@ -1,40 +1,34 @@
 ---
-title: Dispatcher - Novos recursos e práticas recomendadas
-description: Essa sessão explorará novos recursos no dispatcher (desde a versão 4.1.9) e observará algumas práticas recomendadas ao implantar o dispatcher.
+title: Dispatcher - New features and best practices
+description: This session will explore new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
 exl-id: 10015f99-68fe-4a76-aadd-9c68002d99cc
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 3%
-
 ---
+# Dispatcher - New features and best practices{#dispatcher-new-features-and-best-practices}
 
-# Dispatcher - Novos recursos e práticas recomendadas{#dispatcher-new-features-and-best-practices}
-
-Esta sessão explora novos recursos no dispatcher (desde a versão 4.1.9) e observa algumas práticas recomendadas ao implantar o dispatcher.
+This session explores new features in the dispatcher (since version 4.1.9) and look at some best practices when deploying the dispatcher.
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*Entregue em 22 de novembro de 2017*
+*Delivered November 22, 2017*
 
-**Apresentado por:**
+**Presented by:**
 
-Dominique Pfister, cientista da computação sênior, Adobe
+Dominique Pfister, Senior Computer Scientist, Adobe
 
-**Slides do apresentador**
+**Presenter slides**
 
-[Obter arquivo](assets/dispatcher-aemgemsnov2017.pdf)
+[Get File](assets/dispatcher-aemgemsnov2017.pdf)
 
-## Recursos {#resources}
+## Resources {#resources}
 
-[Mais sobre o Cache do Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
+[More on Dispatcher Cache](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Abusando JSONP com Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Abusing JSONP with Rosetta Flash](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[Mais Informações](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[More Info](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
