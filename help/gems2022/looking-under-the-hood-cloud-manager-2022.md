@@ -1,13 +1,13 @@
 ---
 title: Cloud Manager 2022
 description: Este webinário de GEMs de AEM incluirá uma apresentação e uma demonstração sobre o seguinte:Explore os novos recursos lançados no último ano, uma atualização sobre os bastidores ... (as descrições devem ter entre 60 e 160 caracteres)
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
