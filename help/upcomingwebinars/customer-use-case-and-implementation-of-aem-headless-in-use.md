@@ -1,7 +1,7 @@
 ---
 title: Caso de uso do cliente e implementação de AEM headless em uso
 description: Anúncio da sessão
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
