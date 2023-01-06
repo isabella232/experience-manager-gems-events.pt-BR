@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6cb7cbce469afcefbdf767aff74858f147fc8593
+source-git-commit: 8680d300472c549115ba3d4bf12500f2700ca1ac
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '426'
 ht-degree: 99%
 
 ---
@@ -17,13 +17,13 @@ Este projeto adotou o [Código de conduta de código aberto da Adobe](code-of-co
 
 ## Sobre suas contribuições para o conteúdo da Adobe
 
-Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/br/contributor/contributor-guide/introduction.html).
+Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
 Sua contribuição depende de quem você é e do tipo de mudanças com as quais gostaria de contribuir:
 
 ### Pequenas alterações
 
-Se estiver contribuindo com atualizações secundárias por generosidade, visite o artigo e clique no link **Editar**, que o direciona à fonte GitHub do artigo. Em seguida, use a interface do GitHub para fazer suas atualizações. Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais informações.
+Se estiver contribuindo com atualizações secundárias por generosidade, visite o artigo e clique no link **Editar**, que o direciona à fonte GitHub do artigo. Em seguida, use a interface do GitHub para fazer suas atualizações. Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais informações.
 
 As pequenas correções ou esclarecimentos que você envia para documentação e exemplos de código neste repositório estão cobertos pelos termos de uso da Adobe.
 
@@ -45,7 +45,7 @@ Se você é um escritor técnico, gerente de programas ou desenvolvedor da equip
 
 Colaboradores da comunidade podem usar a interface do GitHub para edição básica ou bifurcar o repositório para fazer contribuições importantes.
 
-Consulte o [Manual do colaborador do Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obter mais detalhes.
+Consulte o [Manual do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais detalhes.
 
 ## Como usar markdown para formatar seu tópico
 
