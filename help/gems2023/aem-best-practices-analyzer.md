@@ -7,7 +7,7 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Observe que o AEM Best Practices Analyzer não é aplicável a ambientes AEM as 
 
 ### Apresentadores
 
-* Aditi Dutt Chaudhari, Gerente sênior de produtos, Adobe
+* Aditi Dutt Chaudhuri, Gerente sênior de produtos, Adobe
 * Saurabh Saxena, Gerente de Engenharia, Adobe
-* Kiran Murugula, Arquiteto da Nuvem Sênior, Adobe
+* Kiran Murugulla, Arquiteto da Nuvem Sênior, Adobe
 * VaibHave Varshney, Cientista da Computação, Adobe
 * Himani Chauhan, Cientista da Computação, Adobe
 
