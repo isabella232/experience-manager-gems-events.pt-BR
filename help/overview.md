@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM Sessões do GEM
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '311'
 ht-degree: 1%
 
 ---
@@ -43,13 +43,12 @@ ht-degree: 1%
 </table>
 
 --->
-Futuro webinário de GEMs AEM: *AEM Best Practices Analyzer para ambientes locais e AMS*.
-Tempo: 18 de janeiro, às 17h CET / 8h PST / 9h30pm IST Resource: [AEM Analisador de práticas recomendadas](/help/gems2022/aem-best-practices-analyzer.md)
-Registro: [Registro de webinar](https://aem-augs.adobe.com/e/mz8eae/)
+Webinário mais recente de GEMs de AEM: *AEM Best Practices Analyzer para ambientes locais e AMS*.
+Conduzido: 18 de janeiro, às 17h CET / 8h PST / 9h30pm IST Resource: [AEM Analisador de práticas recomendadas](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> Inscreva-se para ser notificado sobre futuras sessões do GEMS em [Grupo de AEM](https://aem-augs.adobe.com/).
+> Cadastre-se para ser notificado sobre os próximos webinars de GEMs AEM em [Grupo de AEM](https://aem-augs.adobe.com/).
 
 ## Lançamento de GEMs AEM em 2022
 
@@ -76,8 +75,8 @@ Nosso [Comunidade Experience Manager](https://experienceleaguecommunities.adobe.
 
 ## Gravação anterior do webinário
 
-Nosso último webinário foi sobre **Integre a estrutura da AEM e da CIF para criar uma experiência rica e imersiva de comércio eletrônico** e foi realizado em 27 de abril.
+Nosso último webinário foi sobre **AEM Best Practices Analyzer para ambientes locais e AMS** e foi realizado em 18 de janeiro de 2023.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Esse webinário foi apresentado por Kunal Gaba &amp; Vinay Kumar, ambos arquitetos técnicos da Adobe.
+Para obter detalhes da sessão, incluindo uma descrição e informações do apresentador, visite [AEM Analisador de práticas recomendadas](/help/gems2023/aem-best-practices-analyzer.md).
