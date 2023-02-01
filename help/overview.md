@@ -10,9 +10,9 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM Sessões do GEM
-source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '308'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ ht-degree: 1%
 </table>
 
 --->
-Webinário mais recente de GEMs de AEM: *AEM Best Practices Analyzer para ambientes locais e AMS*.
-Conduzido: 18 de janeiro, às 17h CET / 8h PST / 9h30pm IST Resource: [AEM Analisador de práticas recomendadas](/help/gems2023/aem-best-practices-analyzer.md)
+*Acelerando o desenvolvimento do Adobe Experience Manager Cloud Service com ambientes de desenvolvimento rápido*
+Data: 22 de fevereiro, às 17h CET / 8h PST / 9.30pm IST Resource: [Webinar de ambientes de desenvolvimento rápido AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
