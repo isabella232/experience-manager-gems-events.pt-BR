@@ -1,6 +1,6 @@
 ---
-title: Acelerando AEM desenvolvimento as a Cloud Service com ambientes de desenvolvimento rápidos
-description: Para implantar alterações, os ambientes atuais de desenvolvimento da Cloud exigem o uso de um processo que emprega extensas regras de qualidade e segurança de código chamadas de pipeline de CI/CD. Para situações em que são necessárias alterações rápidas e iterativas, o Adobe introduziu os RDEs (Rapid Development Environments).Os RDEs permitem que os desenvolvedores implantem e revisem rapidamente as alterações, minimizando o tempo necessário para testar os recursos que comprovadamente funcionam em um ambiente de desenvolvimento local.
+title: Acelerando o desenvolvimento as a Cloud Service do AEM com ambientes de desenvolvimento rápido
+description: Para implantar alterações, os ambientes de desenvolvimento de nuvem atuais exigem o uso de um processo que emprega regras abrangentes de segurança e qualidade de código chamadas de pipeline de CI/CD. Para situações em que são necessárias alterações rápidas e iterativas, o Adobe introduziu os ambientes de desenvolvimento rápido (RDEs, na sigla em inglês).Os RDEs permitem que os desenvolvedores implantem e revisem alterações rapidamente, minimizando o tempo necessário para testar recursos que comprovadamente funcionam em um ambiente de desenvolvimento local.
 version: Cloud Service
 feature: Developer Tools
 topic: Development
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -18,26 +18,26 @@ ht-degree: 0%
 ---
 
 
-# Acelerando AEM desenvolvimento as a Cloud Service com ambientes de desenvolvimento rápidos
+# Acelerando o desenvolvimento as a Cloud Service do AEM com ambientes de desenvolvimento rápido
 
 Esse webinário foi realizado em 22 de fevereiro de 2023. Veja a gravação abaixo.
 
 ## Descrição da sessão
 
-Para implantar alterações, os ambientes atuais de desenvolvimento da Cloud exigem o uso de um processo que emprega extensas regras de qualidade e segurança de código chamadas de pipeline de CI/CD. Para situações em que são necessárias alterações rápidas e iterativas, o Adobe introduziu Ambientes de Desenvolvimento Rápido (RDEs).
-Os RDEs permitem que os desenvolvedores implantem e revisem rapidamente as alterações, minimizando o tempo necessário para testar os recursos que comprovadamente funcionam em um ambiente de desenvolvimento local.
+Para implantar alterações, os ambientes de desenvolvimento de nuvem atuais exigem o uso de um processo que emprega regras abrangentes de segurança e qualidade de código chamadas de pipeline de CI/CD. Para situações em que são necessárias alterações rápidas e iterativas, o Adobe introduziu os RDEs (Rapid Development Environments, ambientes de desenvolvimento rápido).
+As RDEs permitem que os desenvolvedores implantem e revisem alterações rapidamente, minimizando o tempo necessário para testar recursos que comprovadamente funcionam em um ambiente de desenvolvimento local.
 
 ## Apresentadores
 
 * Natalia Angulo Herrera, Engenheira de Desenvolvimento de Software
 * Karl Pauls, cientista da computação sênior
-* David Bosschaert, Engenheiro Sênior de Software
+* David Bosschaert, engenheiro de software sênior
 
-## Registro de webinar - 18/01/2023
+## Gravação do webinário - 22/02/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
->* Para interações da comunidade específicas da sessão no Experience League, visite este link [Thread Contextual](http://bit.ly/3x1Cl8x)
->* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de AEM](https://aem-augs.adobe.com/).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](http://bit.ly/3x1Cl8x)
+>* Para receber notificações sobre nossos próximos webinars, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
