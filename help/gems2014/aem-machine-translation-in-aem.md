@@ -1,6 +1,6 @@
 ---
-title: Tradução automática em AEM
-description: Saiba como o AEM e o Microsoft Translator fornecem tradução automática para permitir estender o alcance do seu conteúdo, aumentar o tempo de comercialização do conteúdo, otimizar custos e aumentar a capacidade de descoberta dos usuários por meio da Otimização do mecanismo de pesquisa, resultando em um melhor uso dos recursos e um maior ROI.
+title: Tradução automática no AEM
+description: Saiba como o AEM e o Microsoft Translator fornecem tradução automática para permitir que você estenda o alcance do conteúdo, aumente o tempo de comercialização do conteúdo, otimize os custos e aumente a capacidade de descoberta de usuários por meio da Otimização do mecanismo de pesquisa, resultando em melhor uso dos recursos e maior ROI.
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Tradução automática em AEM{#machine-translation-in-aem}
+# Tradução automática no AEM{#machine-translation-in-aem}
 
-O Adobe Experience Manager permite que você localize conteúdo gerado pelo usuário e criado com funcionalidade de tradução automática totalmente integrada e personalizada em mais de 45 idiomas usando o Microsoft Translator. Nesta sessão, você aprenderá como o AEM e o Microsoft Translator fornecem tradução automática para permitir estender o alcance do seu conteúdo, aumentar o tempo de comercialização do conteúdo, otimizar custos e aumentar a capacidade de descoberta dos usuários por meio da Otimização do mecanismo de pesquisa, resultando em um melhor uso dos recursos e um ROI aumentado. Assista às demonstrações sobre como habilitar o serviço no AEM, localizar o conteúdo e descobrir como as ferramentas de personalização do Microsoft Translator permitem que você crie seu próprio sistema de tradução usando a terminologia e o estilo preferidos, específicos às necessidades do seu setor, do ponto de vista linguístico, do domínio ou da organização.
+O Adobe Experience Manager permite que você localize conteúdo gerado pelo usuário e criado com funcionalidade de tradução automática totalmente integrada e personalizada em mais de 45 idiomas usando o Microsoft Translator. Nesta sessão, você aprenderá como o AEM e o Microsoft Translator fornecem tradução automática para permitir que você estenda o alcance do seu conteúdo, aumente o tempo de comercialização do conteúdo, otimize os custos e aumente a capacidade de descoberta pelos usuários por meio da Otimização do mecanismo de pesquisa, resultando em melhor uso dos recursos e maior ROI. Assista a demonstrações sobre como habilitar o serviço no AEM, localizar conteúdo e descobrir como as ferramentas de personalização do Microsoft Translator permitem que você crie seu próprio sistema de tradução usando sua terminologia e estilo preferidos, específicos para as necessidades do setor, linguísticas, de domínio ou organizacionais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
@@ -22,8 +22,8 @@ O Adobe Experience Manager permite que você localize conteúdo gerado pelo usu�
 
 **Apresentado por:**
 
-* Akshay Madan, principal gerente de produtos Gerenciamento e soluções multilíngues de produtos, Adobe
-* Chris Wendt, Gerente do Programa do Grupo Principal Microsoft Translator, Microsoft
+* Akshay Madan, Gerente Principal de Produtos Gerenciamento e Soluções Multilíngues de Produtos, Adobe
+* Chris Wendt, Gerente Principal do Programa do Grupo Microsoft Translator, Microsoft
 
 Slides do apresentador - Adobe
 

@@ -1,6 +1,6 @@
 ---
-title: Detalhe no processo de atualização AEM
-description: Saiba mais sobre o cenário de atualização geral, pontos de extensão de atualização e como testamos os mecanismos de atualização. Conheça alguns dos desafios técnicos relacionados à atualização. Obtenha informações sobre possíveis cenários de atualização e de nível secundário, dicas sobre como tornar o processo mais rápido e ver recursos avançados.
+title: Aprofundamento do processo de atualização do AEM
+description: Saiba mais sobre o cenário de atualização geral, os pontos de extensão de atualização e como testamos os mecanismos de atualização. Conheça alguns dos desafios técnicos relacionados à atualização. Obtenha informações sobre possíveis cenários de atualização e de nota lateral, dicas sobre como agilizar o processo e veja os recursos avançados.
 uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 3%
 
 ---
 
-# Detalhe no processo de atualização AEM{#deep-dive-into-aem-upgrade-process}
+# Aprofundamento do processo de atualização do AEM{#deep-dive-into-aem-upgrade-process}
 
-Saiba mais sobre o cenário de atualização geral, pontos de extensão de atualização e como testamos os mecanismos de atualização. Conheça alguns dos desafios técnicos relacionados à atualização. Obtenha informações sobre possíveis cenários de atualização e de nível secundário, dicas sobre como tornar o processo mais rápido e ver recursos avançados.
+Saiba mais sobre o cenário de atualização geral, os pontos de extensão de atualização e como testamos os mecanismos de atualização. Conheça alguns dos desafios técnicos relacionados à atualização. Obtenha informações sobre possíveis cenários de atualização e de nota lateral, dicas sobre como agilizar o processo e veja os recursos avançados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
@@ -22,7 +22,7 @@ Saiba mais sobre o cenário de atualização geral, pontos de extensão de atual
 
 **Apresentado por:**
 
-* Bertrand Delacretaz, Cientista Principal, Adobe
+* Bertrand Delacretaz, cientista-chefe, Adobe
 * Desenvolvedor de software Tomek Rekawek, Adobe
 
 Slides do apresentador - Delacretaz

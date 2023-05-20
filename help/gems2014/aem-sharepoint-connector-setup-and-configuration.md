@@ -1,6 +1,6 @@
 ---
-title: Conector SharePoint - configuração e configuração
-description: 'Obtenha uma diretriz passo a passo sobre como configurar e configurar um conector de compartilhamento com o CQ/AEM (5.6.0), juntamente com uma demonstração de alguns exemplos. O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR padrão, permitindo que os aplicativos acessem conteúdo que reside em um repositório proprietário de maneira padronizada, simplificando assim o acesso ao conteúdo. '
+title: SharePoint Connector - instalação e configuração
+description: Obtenha uma diretriz passo a passo sobre como configurar um conector de compartilhamento com CQ/AEM (5.6.0), juntamente com uma demonstração de alguns exemplos. O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR padrão, permitindo que os aplicativos acessem o conteúdo que reside em um repositório proprietário de maneira padronizada, simplificando o acesso ao conteúdo.
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
@@ -12,14 +12,14 @@ ht-degree: 1%
 
 ---
 
-# Conector SharePoint - Configuração e configuração{#sharepoint-connector-setup-and-configuration}
+# SharePoint Connector - Instalação e configuração{#sharepoint-connector-setup-and-configuration}
 
-O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR padrão, permitindo que os aplicativos acessem conteúdo que reside em um repositório proprietário de maneira padronizada, simplificando assim o acesso ao conteúdo. Nesta sessão, forneceremos uma diretriz passo a passo sobre como configurar e configurar um Conector de compartilhamento com CQ/AEM (5.6.0), juntamente com uma demonstração de alguns exemplos:
+O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR padrão, permitindo que os aplicativos acessem o conteúdo que reside em um repositório proprietário de maneira padronizada, simplificando o acesso ao conteúdo. Nesta sessão, forneceremos diretrizes passo a passo sobre como configurar um Conector de compartilhamento com CQ/AEM (5.6.0), juntamente com uma demonstração de alguns exemplos sobre:
 
-* Ler conteúdo e metadados do SharePoint
+* Leitura de conteúdo e metadados do SharePoint
 * Gravação de arquivos e pastas nas bibliotecas de documentos do SharePoint
-* Executando consultas no sistema SharePoint
-* Trabalhar com anúncios do SharePoint
+* Execução de consultas no sistema SharePoint
+* Trabalhar com anúncios da SharePoint
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
@@ -27,7 +27,7 @@ O SharePoint Connector do Adobe expõe o conteúdo por meio da interface JCR pad
 
 **Apresentado por:**
 
-Tarun Aggarwal, engenheiro de software líder, Adobe
+Tarun Aggarwal, Engenheiro de Software Líder, Adobe
 
 **Slides do apresentador**
 

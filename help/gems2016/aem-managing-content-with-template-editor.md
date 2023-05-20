@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de conteúdo com o editor de modelo do Adobe Experience Manager
-description: Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece novas e eficientes maneiras de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Por fim, mergulhe na mecânica interna para entender como funciona sob o capuz.
+description: Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece maneiras novas e eficientes de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Finalmente, mergulhe na mecânica interna para entender como ela funciona por baixo dos panos.
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Gerenciamento de conteúdo com o editor de modelo do Adobe Experience Manager{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
-Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece novas e eficientes maneiras de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Por fim, mergulhe na mecânica interna para entender como funciona sob o capuz. Nesta sessão: - Saiba como o editor de modelos pode tornar os sites mais flexíveis - Tenha uma visão geral de como os mecanismos de modelos operam
+Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que fornece maneiras novas e eficientes de criar, estruturar e configurar propriedades digitais. Explore o recurso de uma perspectiva de superautor para entender como ele permite compor diferentes modelos de página e controlar exatamente o que os autores de conteúdo têm permissão para fazer nas páginas correspondentes. Finalmente, mergulhe na mecânica interna para entender como ela funciona por baixo dos panos. Nesta sessão: - Saiba como o editor de modelo pode tornar os sites mais flexíveis - Tenha uma visão geral de como os mecanismos de modelo operam
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
@@ -22,11 +22,11 @@ Com o Adobe Experience Manager 6.2, foi introduzido um novo editor de modelo que
 
 **Apresentado por:**
 
-* Patrick Fauchere, Engenheiro de Software, Adobe
+* Patrick Fauchere, engenheiro de software, Adobe
 
 Especialista em chat,
 
-* Gabriel Walt, Gerente de produtos, Adobe
+* Gabriel Walt, gerente de produto, Adobe
 
 **Slides do apresentador**
 

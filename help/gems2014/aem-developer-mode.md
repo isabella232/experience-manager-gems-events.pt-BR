@@ -14,11 +14,11 @@ ht-degree: 5%
 
 # Modo de desenvolvedor do AEM 6.0{#aem-developer-mode}
 
-David apresenta você ao Modo de desenvolvedor no AEM 6.O. O modo Desenvolvedor é:
+David apresenta você ao Modo de desenvolvedor no AEM 6.O. O modo de desenvolvedor é:
 
-* Uma ponte entre autores e desenvolvedores (Árvore de componentes)
+* Uma ponte entre os autores e o desenvolvedor (Árvore de componentes)
 * Um auxiliar de depuração (notificador de erros)
-* Um companheiro de teste (ferramenta de teste de aplicativo) (Implementação do Hobbes.js AEM)
+* Um companheiro de teste (ferramenta de teste de aplicativos) (Implementação do AEM Hobbes.js)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
@@ -26,7 +26,7 @@ David apresenta você ao Modo de desenvolvedor no AEM 6.O. O modo Desenvolvedor 
 
 **Apresentado por:**
 
-David Catalan, Desenvolvedor de QE, Adobe
+David Catalan, desenvolvedor de QE, Adobe
 
 **Slides do apresentador**
 

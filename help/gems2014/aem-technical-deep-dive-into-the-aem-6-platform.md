@@ -1,6 +1,6 @@
 ---
-title: Profundidade técnica na plataforma AEM 6
-description: Faça um mergulho profundo na nova arquitetura de repositório e conheça as principais diferenças e aprimoramentos para desenvolvedores e equipes de operações.
+title: Aprofundamento técnico na plataforma AEM 6
+description: Analise detalhadamente a nova arquitetura de repositório e conheça as principais diferenças e melhorias para desenvolvedores e equipes de operações.
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 3%
 
 ---
 
-# Profundidade técnica na plataforma AEM 6{#technical-deep-dive-into-the-aem-platform}
+# Aprofundamento técnico na plataforma AEM 6{#technical-deep-dive-into-the-aem-platform}
 
-AEM 6 vem com um novo back-end de repositório criado para melhorar o desempenho e a escalabilidade. Essa sessão fornecerá um mergulho profundo na nova arquitetura de repositório e descreverá as principais diferenças e melhorias para desenvolvedores e equipes de operações. Os tópicos abordados incluem:
+O AEM 6 vem com um novo back-end de repositório criado para melhorar o desempenho e a escalabilidade. Esta sessão fornecerá um aprofundamento sobre a nova arquitetura de repositório e descreverá as principais diferenças e melhorias para desenvolvedores e equipes de operações. Os tópicos abordados incluem:
 
 * Migração de conteúdo
 * Compatibilidade com versões anteriores
@@ -27,7 +27,7 @@ AEM 6 vem com um novo back-end de repositório criado para melhorar o desempenho
 
 **Apresentado por:**
 
-Jukka Zitting, Desenvolvedor Sênior, Adobe
+Jukka Ziting, desenvolvedor sênior, Adobe
 
 **Slides do apresentador**
 

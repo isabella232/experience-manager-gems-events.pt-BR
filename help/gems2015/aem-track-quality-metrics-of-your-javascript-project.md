@@ -1,6 +1,6 @@
 ---
-title: Rastrear métricas de qualidade do seu projeto Javascript
-description: Metodologia para integrar a análise sonarqube a projetos Javascript e, assim, obter acesso a ・ Análise básica de código estático ・ Cobertura de teste de unidade ・ Cobertura de teste de integração (AEM)
+title: Rastrear as métricas de qualidade do seu projeto Javascript
+description: Metodologia para integrar a análise do Sonarqube a projetos Javascript e, assim, obter acesso a · Análise básica de código estático · Cobertura de testes de unidade · Cobertura de testes de integração (AEM)
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 5%
 
 ---
 
-# Rastrear métricas de qualidade do seu projeto Javascript{#track-quality-metrics-of-your-javascript-project}
+# Rastrear as métricas de qualidade do seu projeto Javascript{#track-quality-metrics-of-your-javascript-project}
 
-Metodologia para integrar a análise sonarqube a projetos Javascript e, assim, obter acesso a:
+Metodologia para integrar a análise de sonarqube a projetos JavaScript e, assim, obter acesso a:
 
 * Análise básica de código estático
-* Cobertura dos ensaios unitários
-* Cobertura dos testes de integração (AEM)
+* Cobertura de teste de unidade
+* Cobertura de teste de integração (AEM)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
@@ -26,7 +26,7 @@ Metodologia para integrar a análise sonarqube a projetos Javascript e, assim, o
 
 **Apresentado por:**
 
-* David Catalan, Desenvolvedor de QE líder, Adobe
+* David Catalan, desenvolvedor principal de QE, Adobe
 
 **Slides do apresentador**
 

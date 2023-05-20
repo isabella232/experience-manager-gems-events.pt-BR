@@ -1,6 +1,6 @@
 ---
 title: Introdução ao HTL
-description: Obtenha uma introdução ao HTL, um novo mecanismo de modelo e implementação de idioma. O HTL se esforça para substituir o JSP como linguagem de script dos componentes do Apache Sling e CQ/AEM e se esforça para separar claramente as preocupações de apresentação e lógica.
+description: Obtenha uma introdução ao HTL, um novo mecanismo de modelo e implementação de linguagem. O HTL se esforça para substituir o JSP como linguagem de script para componentes Apache Sling e CQ/AEM e se esforça para separar claramente as preocupações com a apresentação e a lógica.
 uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Introdução ao HTL{#introduction-to-htl}
 
-HTL é um novo mecanismo de modelo e implementação de idioma. O HTL se esforça para substituir o JSP como linguagem de script dos componentes do Apache Sling e CQ/AEM e se esforça para separar claramente as preocupações de apresentação e lógica. Medidas de segurança, como prevenção de XSS, são automaticamente aplicadas. Outra grande vantagem do HTL é que ele se baseia apenas no HTML5, permitindo que agências de terceiros se concentrem em partes relacionadas ao design de um projeto de CQ/AEM sem conhecimento de CQ/AEM. O HTL não está limitado a ambientes Java, por meio da interface do compilador que pode ser conectada, ele pode ser implementado em várias plataformas diferentes, como node.js e php.
+O HTL é um novo mecanismo de modelo e implementação de linguagem. O HTL se esforça para substituir o JSP como linguagem de script para componentes Apache Sling e CQ/AEM e se esforça para separar claramente as preocupações com a apresentação e a lógica. As medidas de segurança, como a prevenção XSS, são aplicadas automaticamente. Outra grande vantagem do HTL é que ele se baseia exclusivamente no HTML5, permitindo que agências de terceiros se concentrem em partes relacionadas ao design de um projeto CQ/AEM sem conhecimento de CQ/AEM. O HTL não está limitado a ambientes Java, através da interface de compilador conectável que pode ser implementada em muitas plataformas diferentes, como node.js e php.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
@@ -22,7 +22,7 @@ HTL é um novo mecanismo de modelo e implementação de idioma. O HTL se esforç
 
 **Apresentado por:**
 
-Gabriel Walt, Gerente de produtos, Adobe
+Gabriel Walt, gerente de produto, Adobe
 
 **Slides do apresentador**
 

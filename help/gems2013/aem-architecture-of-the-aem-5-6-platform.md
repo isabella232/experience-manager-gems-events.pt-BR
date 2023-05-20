@@ -1,6 +1,6 @@
 ---
 title: Arquitetura da plataforma AEM 5.6
-description: Saiba mais sobre a evolução da arquitetura da plataforma de aplicativos AEM. Desde a primeira versão do Communiqué 1, até o lançamento mais recente do AEM 5.6, o aplicativo sofreu várias alterações para se tornar a plataforma de aplicativo versátil e extensível que é hoje.
+description: Saiba mais sobre a evolução da arquitetura da plataforma de aplicativos AEM. Desde a primeira versão do Comunicado 1, até o mais recente lançamento do AEM 5.6, o aplicativo passou por várias mudanças para se tornar a plataforma de aplicativos versátil e extensível que é hoje.
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 # Arquitetura da plataforma AEM 5.6{#architecture-of-the-aem-platform}
 
-Saiba mais sobre a evolução da arquitetura da Plataforma de aplicativos AEM. Desde a primeira versão do Communiqué 1 até o lançamento mais recente do AEM 5.6, o aplicativo sofreu várias alterações maciças para se tornar a plataforma de aplicativos versátil e extensível, ela é agora.
+Saiba mais sobre a evolução da arquitetura da plataforma de aplicativos AEM. Desde a primeira versão do Comunicado 1 até o mais recente lançamento do AEM 5.6, o aplicativo sofreu várias mudanças maciças para se tornar a plataforma de aplicativo versátil e extensível que é agora.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
@@ -34,7 +34,7 @@ Felix Meschberger, Cientista Principal, Adobe
 
 ## Links relacionados {#related-links}
 
-[Documentação](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
+[Documentação](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled).
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

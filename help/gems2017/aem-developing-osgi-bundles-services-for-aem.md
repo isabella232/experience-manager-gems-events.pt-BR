@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Desenvolvimento de pacotes e serviços OSGi para AEM{#developing-osgi-bundles-and-services-for-aem}
 
-Saiba nesta sessão como é fácil desenvolver pacotes e serviços OSGi para AEM. Esta sessão começa com uma breve introdução aos conceitos básicos do OSGi: pacotes e serviços. Posteriormente, demonstra o uso fácil e direto de anotações bem estabelecidas para desenvolver pacotes e serviços. Além disso, são incluídas dicas e truques, bem como práticas recomendadas que facilitam AEM desenvolvimento e evitam desvantagens e armadilhas.
+Saiba nesta sessão como é fácil desenvolver pacotes e serviços OSGi para AEM. Esta sessão começa com uma breve introdução aos conceitos básicos do OSGi: pacotes e serviços. Posteriormente, demonstra o uso fácil e direto de anotações bem estabelecidas para desenvolver pacotes e serviços. Além disso, dicas e truques, bem como práticas recomendadas que facilitam o desenvolvimento do AEM e evitam desvantagens e armadilhas, estão incluídos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
@@ -22,12 +22,12 @@ Saiba nesta sessão como é fácil desenvolver pacotes e serviços OSGi para AEM
 
 **Apresentado por:**
 
-Carsten Ziegeler, cientista principal, Adobe
+Carsten Ziegeler, cientista-chefe, Adobe
 
-Karl Pauls, Cientista da Computação, Adobe
+Karl Pauls, cientista da computação, Adobe
 
 Especialista em chat:\
-David Bosschaert, Engenheiro de Software Sênior, Adobe
+David Bosschaert, Engenheiro de software sênior, Adobe
 
 **Slides do apresentador**
 
@@ -36,4 +36,4 @@ David Bosschaert, Engenheiro de Software Sênior, Adobe
 ## Links relacionados {#related-links}
 
 * [OSGi em ação (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
-* [Componentes do OSGi](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
+* [Componentes OSGi](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

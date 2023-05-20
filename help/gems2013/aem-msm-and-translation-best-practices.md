@@ -1,6 +1,6 @@
 ---
 title: MSM e tradução - práticas recomendadas
-description: Este webinário examina a interseção do MSM e a tradução para sites multilíngues. Abordamos as complexidades introduzidas pela tradução, as recomendações para a estrutura do site e uma breve comparação de conectores e ferramentas de tradução para vários casos de uso.
+description: Este webinário examina a interseção do MSM e a tradução para sites multilíngues. Abordamos as complexidades introduzidas pela tradução, recomendações para a estrutura do site e uma breve comparação de conectores e ferramentas de tradução para vários casos de uso.
 uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 3%
 
 ---
 
-# MSM e Tradução: Práticas recomendadas {#msm-and-translation-best-practices}
+# MSM e tradução: práticas recomendadas {#msm-and-translation-best-practices}
 
-Este webinário examina a interseção do MSM e a tradução para sites multilíngues. Abordamos as complexidades introduzidas pela tradução, as recomendações para a estrutura do site e uma breve comparação de conectores e ferramentas de tradução para vários casos de uso.
+Este webinário examina a interseção do MSM e a tradução para sites multilíngues. Abordamos as complexidades introduzidas pela tradução, recomendações para a estrutura do site e uma breve comparação de conectores e ferramentas de tradução para vários casos de uso.
 
 **Apresentado por:**
 
-Christine Duran, Gerente sênior do Grupo de Tecnologia de Tradução, Adobe
+Christine Duran, gerente sênior do grupo de tecnologia de tradução, Adobe
 
 **Slides do apresentador**
 
@@ -32,4 +32,4 @@ Em vez disso, leia mais sobre as Práticas recomendadas na documentação do Ado
 
 * [Práticas recomendadas de gerenciamento de vários sites](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Práticas recomendadas de tradução](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Volte para a Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Retorne à Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

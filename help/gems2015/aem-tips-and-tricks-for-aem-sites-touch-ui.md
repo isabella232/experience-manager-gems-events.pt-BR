@@ -1,6 +1,6 @@
 ---
 title: Dicas e truques para a interface do usuário de toque do AEM Sites
-description: Aprenda as dicas e truques mais interessantes sobre [!DNL AEM Sites] Toque na interface do usuário. Descubra os recursos da interface do usuário para toque que você pode ou não conhecer e que permitem fazer mais e mais rápido. Seja você um estrategista de conteúdo ou um comerciante de conteúdo, você descobrirá algumas das joias ocultas da interface de toque que o tornará mais eficiente e produtivo.
+description: Aprenda as melhores dicas e truques sobre o [!DNL AEM Sites] Interface para toque. Descubra os recursos da interface para toque que você pode ou não conhecer e que permitem fazer mais com mais rapidez. Seja você um estrategista de conteúdo ou um profissional de marketing de conteúdo, você descobrirá algumas das joias ocultas da interface para toque que o tornarão mais eficiente e produtivo.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 ---
 
-# Dicas e truques para [!DNL AEM Sites] Interface do usuário de toque{#tips-and-tricks-for-aem-sites-touch-ui}
+# Dicas e truques para [!DNL AEM Sites] Interface para toque{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Aprenda as dicas e truques mais interessantes sobre [!DNL AEM Sites] Toque na interface do usuário. Descubra os recursos da interface do usuário para toque que você pode ou não conhecer e que permitem fazer mais e mais rápido. Seja você um estrategista de conteúdo ou um comerciante de conteúdo, você descobrirá algumas das joias ocultas da interface de toque que o tornará mais eficiente e produtivo.
+Aprenda as melhores dicas e truques sobre o [!DNL AEM Sites] Interface para toque. Descubra os recursos da interface para toque que você pode ou não conhecer e que permitem fazer mais com mais rapidez. Seja você um estrategista de conteúdo ou um profissional de marketing de conteúdo, você descobrirá algumas das joias ocultas da interface para toque que o tornarão mais eficiente e produtivo.
 
-Neste GEM, saiba como:
+Nesta GEM, saiba como:
 
-* Navegar e encontrar conteúdo com eficiência
+* Navegue e encontre conteúdo com eficiência
 * Organize o conteúdo e colabore nele
 * Manter uma visão geral do que está acontecendo
 * Conteúdo do autor
@@ -29,8 +29,8 @@ Neste GEM, saiba como:
 
 **Apresentado por:**
 
-* Gabriel Walt, Gerente de produtos, Adobe
-* Gilles Knobloch, Gerente de Engenharia, Adobe
+* Gabriel Walt, gerente de produto, Adobe
+* Gilles Knobloch, gerente de engenharia, Adobe
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

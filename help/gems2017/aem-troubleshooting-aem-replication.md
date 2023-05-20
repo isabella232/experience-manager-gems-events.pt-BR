@@ -1,20 +1,20 @@
 ---
-title: Solução de problemas AEM replicação
+title: Solução de problemas de replicação do AEM
 description: A replicação é um recurso central no AEM, pois permite a publicação de conteúdo criado para publicar instâncias. Nesta sessão, analisaremos como solucionar problemas e reagir aos problemas mais comuns na replicação.
 uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+exl-id: dcaade07-ee1b-4056-b42b-0ff9c8fcbf3f
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
-
-# Solução de problemas AEM replicação{#troubleshooting-aem-replication}
+# Solução de problemas de replicação do AEM{#troubleshooting-aem-replication}
 
 A replicação é um recurso central no AEM, pois permite a publicação de conteúdo criado para publicar instâncias. Nesta sessão, analisaremos como solucionar problemas e reagir aos problemas mais comuns na replicação.
 
@@ -37,7 +37,7 @@ A replicação é um recurso central no AEM, pois permite a publicação de cont
 
 >[!MORELIKETHIS]
 >
->* [Indexação de AEM e Consulta JCR](aem-indexing-jcr-query.md)
->* [Solução de problemas AEM replicação](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager: Tarefas de manutenção do AEM 6.x](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+>* [Indexação de AEM e consulta JCR](aem-indexing-jcr-query.md)
+>* [Solução de problemas de replicação do AEM](aem-troubleshooting-aem-replication.md)
+>* [Adobe Experience Manager: tarefas de manutenção do AEM 6.x](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 

@@ -1,6 +1,6 @@
 ---
-title: Índices Lucene do Oak
-description: Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados para melhorar o desempenho de suas consultas. Na segunda parte, falaremos sobre o modo como a indexação assíncrona funciona em geral e como ela pode ser monitorizada.
+title: Índices Oak Lucene
+description: Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados para melhorar o desempenho das consultas. Na segunda parte, falaremos sobre como a indexação assíncrona funciona em geral e como ela pode ser monitorada.
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
@@ -8,13 +8,13 @@ exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Índices Lucene do Oak{#oak-lucene-indexes}
+# Índices Oak Lucene{#oak-lucene-indexes}
 
-Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados para melhorar o desempenho de suas consultas. Na segunda parte, falaremos sobre o modo como a indexação assíncrona funciona em geral e como ela pode ser monitorizada.
+Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados para melhorar o desempenho das consultas. Na segunda parte, falaremos sobre como a indexação assíncrona funciona em geral e como ela pode ser monitorada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
@@ -23,7 +23,7 @@ Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados par
 **Apresentado por:**
 
 * Chetan Mehrotra, cientista da computação sênior, Adobe
-* Alex Parvulescu, Desenvolvedor Sênior, Adobe
+* Alex Parvulescu, desenvolvedor sênior, Adobe
 
 **Slides do apresentador**
 
@@ -36,4 +36,4 @@ Descrevemos os recursos dos índices Oak Lucene e como eles podem ser usados par
 ## Links relacionados {#related-links}
 
 * [Consultas e indexação do Oak](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Documentação do Oak: Índice Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Documentação do Oak: índice Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

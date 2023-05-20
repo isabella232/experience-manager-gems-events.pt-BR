@@ -1,20 +1,20 @@
 ---
-title: Pesquise formulários facilmente com o AEM querybuilder
-description: Esta sessão explica os princípios por trás do querybuilder em comparação com outros idiomas de consulta na pilha JCR. Ele mostra como você pode usá-lo para criar formulários de pesquisa autoráveis facilmente, como criar pesquisas eficientes, como depurar consultas e como estendê-las.
+title: Os formulários de busca ficaram simples com o AEM querybuilder
+description: Esta sessão explica os princípios por trás do querybuilder em comparação a outras linguagens de consulta na pilha JCR. Ele mostra como usá-lo para criar formulários de pesquisa para criação fácil, como criar pesquisas eficientes, como depurar consultas e como estendê-las.
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7d52697a-9c24-4b3d-979f-acc540e6cf59
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
 
 ---
 
+# Os formulários de busca ficaram simples com o AEM querybuilder{#search-forms-made-easy-with-the-aem-querybuilder}
 
-# Pesquise formulários facilmente com o AEM querybuilder{#search-forms-made-easy-with-the-aem-querybuilder}
-
-A maioria dos desenvolvedores se deparou com o AEM querybuilder como uma linguagem de consulta de alto nível usada principalmente em interfaces do usuário, mas deseja saber mais sobre ele para tirar o melhor proveito dele. Esta sessão explicará os princípios por trás do querybuilder em comparação com outros idiomas de consulta na pilha JCR, mostrará como usá-lo para criar formulários de pesquisa autoráveis com facilidade, como criar pesquisas eficientes, como depurar consultas e como estendê-las.
+A maioria dos desenvolvedores se deparou com o AEM querybuilder como uma linguagem de consulta de alto nível usada principalmente em interfaces de usuário, mas querem saber mais sobre isso para aproveitar ao máximo. Esta sessão explicará os princípios por trás do querybuilder em comparação a outras linguagens de consulta na pilha JCR, mostrará como usá-lo para criar formulários de pesquisa autoráveis com muita facilidade, como criar pesquisas eficientes, como depurar consultas e como estendê-las.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19139/?quality=9)
 
@@ -30,9 +30,9 @@ A maioria dos desenvolvedores se deparou com o AEM querybuilder como uma linguag
 
 Demonstração
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregue por Alexander Klimetschek
+* [Construtor de consultas do AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), apresentada por Alexander Klimetschek
 
-Documentação AEM
+Documentação do AEM
 
 * [API do Querybuilder, AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/develop/search/querybuilder-api.html)
 * [API do Querybuilder, AEM 6.2](https://docs.adobe.com/docs/ko/aem/6-2/develop/search/querybuilder-api.html)
@@ -42,4 +42,3 @@ Documentação AEM
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
-

@@ -1,34 +1,34 @@
 ---
-title: 'Aprofundamento do SDK do Editor do SPA - Parte 1 - React '
-description: Faça um mergulho profundo conosco no desenvolvimento de aplicativos de página única que podem ser criados usando o Editor de página de AEM.
+title: Aprofundamento do SDK do editor de SPA - Parte 1 - React
+description: Aprofunde-se conosco no desenvolvimento de Aplicativos de página única que possam ser criados usando o Editor de páginas do AEM.
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: ae85fc7d-73b0-43ba-a7b7-d21ebc6d33ef
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
 
 ---
 
+# Aprofundamento do SDK do editor de SPA - Parte 1 - React {#spa-editor-sdk-deep-dive-part-react}
 
-# Aprofundamento do SDK do Editor do SPA - Parte 1 - React {#spa-editor-sdk-deep-dive-part-react}
-
-Faça um mergulho profundo conosco no desenvolvimento de aplicativos de página única que podem ser criados usando o Editor de página de AEM. Nesta sessão, você terá acesso ao seguinte conteúdo:
+Aprofunde-se conosco no desenvolvimento de Aplicativos de página única que possam ser criados usando o Editor de páginas do AEM. Nesta sessão, você terá acesso ao seguinte conteúdo:
 
 * Considerações e recomendações sobre a estrutura dos projetos
 * Revisão de todas as camadas que compõem a arquitetura de um projeto
-* Insight sobre a função dos componentes de AEM e SPA
-* Estrutura e campos JSON-chave do objeto de modelo
-* Trechos úteis do código
-* Tour dos componentes fornecidos pelo SDK
-* Principais detalhes da implementação
+* Insight sobre o papel dos componentes de AEM e SPA
+* Estrutura e campos JSON principais do objeto de modelo
+* Trechos de código úteis
+* Tour pelos componentes fornecidos pelo SDK
+* Principais detalhes de implementação
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*31/10/18 Entregue*
+*Entregue em 31/10/18*
 
-Apresentado por: Patrick Fauchere, Gerente de Engenharia, Adobe
+Apresentado por: Patrick Fauchere, gerente de engenharia, Adobe
 
 **Slides do apresentador**
 
@@ -38,9 +38,9 @@ Apresentado por: Patrick Fauchere, Gerente de Engenharia, Adobe
 
 [Tutorial de fim de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=pt-BR)
 
-[Documentação](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentação](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html).
 
-[Exemplo - diário de varejo da Web](https://github.com/adobe/aem-sample-we-retail-journal)
+[Amostra - Diário de varejo da Web](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -1,41 +1,43 @@
 ---
-title: AEM Best Practices Analyzer para ambientes locais e AMS
-description: O Analisador de práticas recomendadas é uma ferramenta que fornece recursos de análise e relatórios sobre uma AEM local e instâncias do AMS. Ele gera uma avaliação da sua implementação de AEM atual, indicando áreas que não estão seguindo as práticas recomendadas, além de fornecer orientação sobre como tomar medidas para solucionar possíveis problemas.
+title: Analisador de práticas recomendadas do AEM para ambientes locais e AMS
+description: O Analisador de práticas recomendadas é uma ferramenta que fornece recursos de análise e relatórios sobre um AEM no local e instâncias AMS. Ele gera uma avaliação da implementação de AEM atual, indicando áreas que não estão seguindo as práticas recomendadas e, ao mesmo tempo, fornecendo orientações sobre como tomar medidas para corrigir possíveis problemas.
 version: 6.5
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
+exl-id: 3b1aece7-72a0-4948-80de-b4d87479aa60
+source-git-commit: b50c3aff17162699522ed353659ad3ea6f57faf6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# AEM Best Practices Analyzer para ambientes locais e AMS
+# Analisador de práticas recomendadas do AEM para ambientes locais e AMS
 
-## Este webinário foi entregue em 18 de janeiro de 2023 - exiba a gravação abaixo
+## Este webinário foi entregue em 18 de janeiro de 2023 - veja a gravação abaixo
 
 ## Descrição
 
-O Analisador de práticas recomendadas é uma ferramenta que fornece recursos de análise e relatórios sobre AEM local e instâncias do AMS. Ele gera uma avaliação da sua implementação de AEM atual, indicando áreas que não estão seguindo as práticas recomendadas, além de fornecer orientação sobre como tomar medidas para solucionar possíveis problemas. A motivação é simples. identificar e solucionar apenas um mau uso em seu ambiente de AEM tem o potencial de melhorar a experiência do usuário, reduzir a dívida técnica e, por sua vez, reduzir o custo total de propriedade (TCO). Por isso, por que não aproveitar o tempo para ver se existem oportunidades de melhoria?
-Observe que o AEM Best Practices Analyzer não é aplicável a ambientes AEM as a Cloud Service.
+O Analisador de práticas recomendadas é uma ferramenta que fornece recursos de análise e relatórios sobre AEM no local e instâncias AMS. Ele gera uma avaliação da implementação de AEM atual, indicando áreas que não estão seguindo as práticas recomendadas e, ao mesmo tempo, fornecendo orientações sobre como tomar medidas para corrigir possíveis problemas. A motivação é simples; identificar e solucionar apenas um mau uso no ambiente do AEM tem o potencial de melhorar a experiência do usuário, reduzir o débito técnico e, por sua vez, reduzir o custo total de propriedade (TCO). Então, por que não reservar um tempo para ver se há oportunidades de melhoria?
+Observe que o Analisador de práticas recomendadas para AEM não se aplica a ambientes as a Cloud Service para AEM.
 
 ### Apresentadores
 
-* Aditi Dutt Chaudhuri, Gerente sênior de produtos, Adobe
-* Saurabh Saxena, Gerente de Engenharia, Adobe
-* Kiran Murugulla, Arquiteto da Nuvem Sênior, Adobe
-* VaibHave Varshney, Cientista da Computação, Adobe
-* Himani Chauhan, Cientista da Computação, Adobe
+* Aditi Dutt Chaudhuri, gerente sênior de produtos, Adobe
+* Saurabh Saxena, gerente de engenharia, Adobe
+* Kiran Murugulla, arquiteto sênior da nuvem, Adobe
+* Vaibhav Varshney, cientista da computação, Adobe
+* Himani Chauhan, cientista da computação, Adobe
 
-## Registro de webinar - 18/01/2023
+## Gravação do webinário - 18/01/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
 >[!NOTE]
 >
->* Para interações da comunidade específicas da sessão no Experience League, visite este link [Thread Contextual](https://bit.ly/3Z6AyM1)
->* Para receber notificações automáticas sobre webinars, registre-se em [Grupo de AEM](https://aem-augs.adobe.com/).
+>* Para ver as interações da comunidade específicas da sessão no Experience League, visite este [Thread contextual](https://bit.ly/3Z6AyM1)
+>* Para receber notificações automáticas sobre webinários, registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
+

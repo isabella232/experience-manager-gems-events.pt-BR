@@ -1,6 +1,6 @@
 ---
-title: Configurar e configurar AEM Dynamic Media
-description: AEM Dynamic Media permite que os clientes forneçam experiências de mídia avançada de forma escalável e econômica a todas as telas e pontos de contato do cliente - tudo isso a partir de uma única imagem principal ou vídeo!  Nesta sessão, forneceremos a você tudo o que você precisa saber para implementar com sucesso os clientes no Dynamic Media, incluindo uma visão geral sobre os casos de uso, a arquitetura técnica e as etapas de configuração.
+title: Configurar o AEM Dynamic Media
+description: O AEM Dynamic Media permite que os clientes ofereçam experiências envolventes de mídia avançada de maneira escalável e econômica a todas as telas e pontos de contato do cliente, tudo a partir de uma única imagem ou vídeo principal!  Nesta sessão, enviaremos tudo o que você precisa saber para implementar com êxito os clientes do Dynamic Media, incluindo uma visão geral sobre os casos de uso, arquitetura técnica e etapas de configuração.
 uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 8%
 
 ---
 
-# Configurar e configurar AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
+# Configurar o AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 
-AEM Dynamic Media permite que os clientes forneçam experiências de mídia avançada de forma escalável e econômica a todas as telas e pontos de contato do cliente - tudo isso a partir de uma única imagem principal ou vídeo!  Nesta sessão, forneceremos a você tudo o que você precisa saber para implementar com sucesso os clientes no Dynamic Media, incluindo uma visão geral sobre os casos de uso, a arquitetura técnica e as etapas de configuração.
+O AEM Dynamic Media permite que os clientes ofereçam experiências envolventes de mídia avançada de maneira escalável e econômica a todas as telas e pontos de contato do cliente, tudo a partir de uma única imagem ou vídeo principal!  Nesta sessão, enviaremos tudo o que você precisa saber para implementar com êxito os clientes do Dynamic Media, incluindo uma visão geral sobre os casos de uso, arquitetura técnica e etapas de configuração.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
@@ -22,8 +22,8 @@ AEM Dynamic Media permite que os clientes forneçam experiências de mídia avan
 
 **Apresentado por:**
 
-* Cynthia Tillo, Gerente Principal de Produtos, Adobe
-* Bob van Manen, Gerente de Engenharia, Adobe
+* Cynthia Tillo, gerente de produto principal, Adobe
+* Bob van Manen, gerente de engenharia, Adobe
 
 **Slides do apresentador**
 

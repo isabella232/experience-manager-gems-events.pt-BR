@@ -1,20 +1,20 @@
 ---
-title: Em tempo real e leve - crie integrações orientadas por eventos com o AEM usando eventos Adobe I/O
-description: Cansado de conectores de construção para AEM? Saiba como expor qualquer evento OSGi interno de AEM por meio de Adobe I/O Events para criar fluxos de trabalho orientados por eventos em vários sistemas com facilidade. Os Eventos de E/S permitem responder a eventos administrativos e comportamentos de clientes em tempo real.
+title: Tempo real e leve - crie integrações orientadas por eventos com o AEM usando Adobe I/O Events
+description: Cansado de construir conectores para AEM? Saiba como você pode expor quaisquer eventos OSGi internos do AEM por meio de eventos Adobe I/O para criar fluxos de trabalho orientados por eventos em vários sistemas com facilidade. Eventos de E/S permitem responder a eventos administrativos e comportamentos do cliente em tempo real.
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: e7a70973-96ad-4af4-9dd5-c30dfec7b56a
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
+# Tempo real e leve: crie integrações orientadas por eventos com o AEM usando Adobe I/O Events{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
 
-# Tempo real e leve: criar integrações orientadas por eventos com o AEM usando eventos do Adobe I/O{#real-time-and-lightweight-build-event-driven-integrations-with-aem-using-adobe-i-o-events}
-
-Cansado de conectores de construção para AEM? Saiba como expor qualquer evento OSGi interno de AEM por meio de Adobe I/O Events para criar fluxos de trabalho orientados por eventos em vários sistemas com facilidade. Os Eventos de E/S permitem responder a eventos administrativos e comportamentos de clientes em tempo real.
+Cansado de construir conectores para AEM? Saiba como você pode expor quaisquer eventos OSGi internos do AEM por meio de eventos Adobe I/O para criar fluxos de trabalho orientados por eventos em vários sistemas com facilidade. Eventos de E/S permitem responder a eventos administrativos e comportamentos do cliente em tempo real.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
@@ -22,7 +22,7 @@ Cansado de conectores de construção para AEM? Saiba como expor qualquer evento
 
 **Apresentado por:**
 
-Francois Le Droff, cientista da computação sênior, integração em nuvem, Adobe
+Francois Le Droff, cientista da computação sênior, Integração na nuvem, Adobe
 
 **Slides do apresentador**
 
@@ -31,4 +31,3 @@ Francois Le Droff, cientista da computação sênior, integração em nuvem, Ado
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
-

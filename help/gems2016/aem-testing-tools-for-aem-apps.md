@@ -1,6 +1,6 @@
 ---
-title: Ferramentas a serem usadas para testar os aplicativos do Adobe Experience Manager
-description: De Teste de unidade a Teste de integração de um aplicativo Experience Manager O teste automatizado é indispensável para o desenvolvimento de qualquer aplicativo. Esta apresentação aborda as várias ferramentas para testar o código Java, começando com as noções básicas de teste de unidade até testes funcionais e de integração. Saiba como adicionar testes facilmente da maneira mais eficaz para sua base de código, independentemente de você desejar testar um método de utilidade simples, algum serviço OSGi ou um terminal HTTP.
+title: Ferramentas a serem usadas para testar aplicativos do Adobe Experience Manager
+description: De Teste de unidade a Teste de integração de um aplicativo de Experience Manager O teste automatizado é indispensável para o desenvolvimento de qualquer aplicativo. Esta apresentação aborda as várias ferramentas para testar o código Java, começando com as noções básicas de teste de unidade até testes funcionais e de integração. Saiba como adicionar testes facilmente da maneira mais eficaz para sua base de código, independentemente de você querer testar um método de utilitário simples, algum serviço OSGi ou um ponto de extremidade HTTP.
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 1%
 
 ---
 
-# Ferramentas a serem usadas para testar os aplicativos do Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
+# Ferramentas a serem usadas para testar aplicativos do Adobe Experience Manager{#tools-to-use-for-testing-adobe-experience-manager-applications}
 
-De Teste de unidade a Teste de integração de um aplicativo Experience Manager O teste automatizado é indispensável para o desenvolvimento de qualquer aplicativo. Esta apresentação aborda as várias ferramentas para testar o código Java, começando com as noções básicas de teste de unidade até testes funcionais e de integração. Saiba como adicionar testes facilmente da maneira mais eficaz para sua base de código, independentemente de você desejar testar um método de utilidade simples, algum serviço OSGi ou um terminal HTTP.
+De Teste de unidade a Teste de integração de um aplicativo de Experience Manager O teste automatizado é indispensável para o desenvolvimento de qualquer aplicativo. Esta apresentação aborda as várias ferramentas para testar o código Java, começando com as noções básicas de teste de unidade até testes funcionais e de integração. Saiba como adicionar testes facilmente da maneira mais eficaz para sua base de código, independentemente de você querer testar um método de utilitário simples, algum serviço OSGi ou um ponto de extremidade HTTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19302/?quality=9)
 

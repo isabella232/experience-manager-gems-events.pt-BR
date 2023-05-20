@@ -1,6 +1,6 @@
 ---
 title: Visão geral técnica da plataforma AEM 6
-description: Nesta sessão, Peter Klassen - Gerente de produto, consulta o Repositório JCR recarregado, melhorias de desempenho e novas opções de escalabilidade.
+description: Nesta sessão, Peter Klassen - Gerente de produtos, procura o Repositório JCR recarregado, melhorias de desempenho e novas opções de escalabilidade.
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
@@ -8,13 +8,13 @@ exl-id: adfa8ba5-943b-4363-b810-b452078681ab
 source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
 # Visão geral técnica da plataforma AEM 6{#technical-overview-of-the-aem-platform}
 
-Peter Klassen - Gerente de Produtos: Repositório JCR recarregado - melhorias de desempenho e novas opções de escalabilidade em uma única visão, mongoDB no AEM 6, onde armazenar binários - nova visão geral das opções do DataStore, operações da plataforma facilitadas. O público-alvo direcionado para esta sessão são parceiros e clientes; gerentes de projeto, arquitetos e administradores.
+Nesta sessão, Peter Klassen - Gerente de produto observará o seguinte: Repositório JCR recarregado - melhorias de desempenho e novas opções de escalabilidade a uma só vista, mongoDB no AEM 6, onde armazenar binários - nova visão geral das opções do DataStore, operações da plataforma facilitadas. O público-alvo desta sessão são parceiros e clientes, gerentes de projeto, arquitetos e administradores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
@@ -22,7 +22,7 @@ Peter Klassen - Gerente de Produtos: Repositório JCR recarregado - melhorias de
 
 **Apresentado por:**
 
-Peter Klassen, gerente de produtos, Adobe
+Peter Klassen, Gerente de produto, Adobe
 
 **Slides do apresentador**
 

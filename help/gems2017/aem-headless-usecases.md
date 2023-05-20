@@ -1,6 +1,6 @@
 ---
-title: Experiências fluídas AEM para casos de uso sem interface
-description: Saiba mais sobre experiências fluidas e seu aplicativo no gerenciamento de conteúdo e experiências para cenários de CMS com ou sem periféricos. Saiba mais sobre os principais recursos AEM 6.3 mais recentes que permitem casos de uso do gerenciamento de experiência agnóstico de canal e muito mais.
+title: Experiências fluídas do AEM para casos de uso headless
+description: Saiba mais sobre experiências fluidas e seu aplicativo no gerenciamento de conteúdo e experiências para cenários de CMS headful ou headless. Saiba mais sobre os principais recursos mais recentes do AEM 6.3 que permitem casos de uso de gerenciamento de experiência independente de canal e muito mais.
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
@@ -12,14 +12,14 @@ ht-degree: 1%
 
 ---
 
-# Experiências fluídas AEM para casos de uso sem interface{#aem-fluid-experiences-for-headless-usecases}
+# Experiências fluídas do AEM para casos de uso headless{#aem-fluid-experiences-for-headless-usecases}
 
-Nesta sessão, abordaremos as experiências fluidas do Adobe Experience Manager e seu aplicativo no gerenciamento de conteúdo e experiências para cenários de CMS com ou sem periféricos. Saiba mais sobre os principais AEM 6.3 recursos mais recentes que permitem casos de uso do gerenciamento de experiência agnóstico de canal. Saiba como os outros clientes estão usando os Fragmentos de experiência e os Serviços de conteúdo para reutilizar conteúdo da Web em aplicativos móveis, aplicativos de página única e aplicativos personalizados. Junte-se a nós para saber mais sobre os detalhes de implementação, demonstração e aplicativos da sindicalização de conteúdo. Saiba mais sobre como criar uma vez e fazer entregas entre canais.
+Nesta sessão, abordaremos as experiências fluidas do Adobe Experience Manager e seu aplicativo no gerenciamento de conteúdo e experiências para cenários de CMS headful ou headless. Saiba mais sobre os principais recursos mais recentes do AEM 6.3 que permitem casos de uso de gerenciamento de experiência independente de canal. Saiba como outros clientes estão usando Fragmentos de experiência e Serviços de conteúdo para reutilizar conteúdo da Web em aplicativos móveis, aplicativos de página única e aplicativos personalizados. Junte-se a nós para saber mais sobre os detalhes da implementação, a demonstração e os aplicativos para a agregação de conteúdo. Saiba como criar uma única vez e fazer deliveries entre canais.
 
-Intervalos principais:
+Principais pontos:
 
-* Entenda os novos recursos disponíveis para uso em conversas de CMS omnicanal
-* Ser capaz de fornecer o ponto de vista e a solução Fluid Experiences
+* Entender os novos recursos disponíveis para uso em conversas omnicanal CMS
+* Ser capaz de fornecer um ponto de vista e uma solução de Adobe com experiência fluida
 * Nova demonstração e instruções disponíveis para as conversas com o cliente
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
@@ -28,8 +28,8 @@ Intervalos principais:
 
 **Apresentado por:**
 
-* Haresh Kumar, Director de Estratégia e Marketing de Produtos AEM, Adobe
-* Gilles Knobloch, Gerente de Engenharia Sênior, Adobe
+* Haresh Kumar, Director de Estratégia e Marketing de Produto AEM, Adobe
+* Gilles Knobloch, gerente de engenharia sênior, Adobe
 
 **Slides do apresentador**
 

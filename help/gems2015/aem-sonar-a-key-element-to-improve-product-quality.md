@@ -1,6 +1,6 @@
 ---
-title: Sonar - Um elemento essencial para melhorar a qualidade do produto
-description: Saiba como usar o Sonar para ajudar a melhorar a qualidade do produto, incluindo cobertura de Teste de unidade, cobertura de Teste de integração, análise de código estático. Saiba também sobre AEM caso de uso e obtenha uma apresentação global de perguntas e respostas sobre o aplicativo Sonar.
+title: Sonar - Um elemento-chave para melhorar a qualidade do produto
+description: Saiba como usar o Sonar para ajudar a melhorar a qualidade do produto, incluindo cobertura de Teste de unidade, cobertura de Teste de integração, análise de código estático. Saiba também sobre o caso de uso de AEM e obtenha uma apresentação global de perguntas e respostas do aplicativo Sonar.
 uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Sonar - Um elemento essencial para melhorar a qualidade do produto{#sonar-a-key-element-to-improve-product-quality}
+# Sonar - Um elemento-chave para melhorar a qualidade do produto{#sonar-a-key-element-to-improve-product-quality}
 
 Durante esta sessão, David discutirá:
 
@@ -26,9 +26,9 @@ Durante esta sessão, David discutirá:
 
 **Apresentado por:**
 
-* David Catalan, Desenvolvedor de QE líder, Adobe
+* David Catalan, desenvolvedor principal de QE, Adobe
 
 **Slides do apresentador**
 
 [Obter arquivo](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Volte para a Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Retorne à Visão geral](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

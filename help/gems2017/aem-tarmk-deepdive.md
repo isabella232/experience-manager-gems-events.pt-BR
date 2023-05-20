@@ -1,20 +1,20 @@
 ---
-title: No poço de tar - um mergulho profundo do TarMK
-description: 'Já se perguntou o que há dentro dos arquivos tar do TarMK? O que é um segmento e o que é um registro? Como a coleta de lixo do armazenamento de segmentos funciona e por que (ou por que não)? Essa sessão responde a essas perguntas e muito mais. '
+title: No poço do tar - um mergulho profundo do TarMK
+description: Já se perguntou o que há dentro dos arquivos tar do TarMK? O que é um segmento e o que é um registro? Como a coleta de lixo de armazenamento de segmentos funciona e por que (ou por que não)? Essa sessão responde a essas perguntas e a muitas outras.
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 7ee324b8-f4b9-490d-b13d-b73d72385980
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%
 
 ---
 
+# No buraco negro do tar: um mergulho profundo do TarMK{#into-the-tar-pit-a-tarmk-deep-dive}
 
-# No poço tar: um mergulho profundo no TarMK{#into-the-tar-pit-a-tarmk-deep-dive}
-
-Já se perguntou o que há dentro dos arquivos tar do TarMK? O que é um segmento e o que é um registro? Como a coleta de lixo do armazenamento de segmentos funciona e por que (ou por que não)? Esta sessão responderá a estas perguntas e muito mais. Ele lançará luz sobre o funcionamento interno do TarMK, seus requisitos de sistema e características de desempenho. Ajudará os participantes a entender e diagnosticar melhor a causa de problemas comuns e apresentar ferramentas e técnicas para diagnóstico e depuração. Por fim, haverá uma pré-visualização dos novos recursos e das melhorias que estamos trabalhando atualmente.
+Já se perguntou o que há dentro dos arquivos tar do TarMK? O que é um segmento e o que é um registro? Como a coleta de lixo de armazenamento de segmentos funciona e por que (ou por que não)? Essa sessão responderá a essas perguntas e a muitas outras. Ele lançará luz sobre o funcionamento interno da TarMK, seus requisitos de sistema e características de desempenho. Ele ajudará os participantes a entender e diagnosticar melhor a causa de problemas comuns e a apresentar ferramentas e técnicas para diagnóstico e depuração. Por fim, haverá uma visualização de quais novos recursos e melhorias estamos trabalhando atualmente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19138/?quality=9)
 

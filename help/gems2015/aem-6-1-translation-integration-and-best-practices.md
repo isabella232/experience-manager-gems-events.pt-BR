@@ -1,5 +1,5 @@
 ---
-title: Integração e práticas recomendadas da tradução do AEM 6.1
+title: Integração e práticas recomendadas de tradução do AEM 6.1
 description: Obtenha uma apresentação sobre os recursos aprimorados de integração de tradução no AEM. Conheça as práticas recomendadas para gerenciar sites multilíngues.
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Integração e práticas recomendadas da tradução do AEM 6.1{#aem-translation-integration-best-practices}
+# Integração e práticas recomendadas de tradução do AEM 6.1{#aem-translation-integration-best-practices}
 
-Cristine e Mathias apresentarão recursos aprimorados de integração de tradução em AEM e práticas recomendadas para gerenciar sites multilíngues. Você aprenderá a: estruturar sites globais em AEM usam cópias de idioma/cópias em tempo real/MSM como integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução
+Cristine e Mathias apresentarão recursos aprimorados de integração de tradução no AEM e práticas recomendadas para gerenciar sites multilíngues. Você aprenderá a estruturar sites globais em AEM usando cópias de idioma/live copies/MSM como integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
@@ -23,7 +23,7 @@ Cristine e Mathias apresentarão recursos aprimorados de integração de traduç
 **Apresentado por:**
 
 * Christine Duran, Gerente sênior de tecnologias de tradução, Adobe
-* Mathias Siegel, Gerente sênior de produtos, Adobe
+* Mathias Siegel, Gerente de produto sênior, Adobe
 
 **Slides do apresentador**
 

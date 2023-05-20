@@ -1,6 +1,6 @@
 ---
-title: Criar componentes reutilizáveis com eficiência
-description: Saiba por que é essencial que sua equipe tenha eficiência para permitir que os desenvolvedores da Web do HTML sejam totalmente integrados ao projeto do AEM e como isso pode ser feito. Saiba também sobre os novos componentes fundamentais, que são criados com JavaScript do lado do servidor e com HTL, e como reutilizá-los e estendê-los.
+title: Crie componentes reutilizáveis com eficiência
+description: Saiba por que é essencial para a eficiência da sua equipe permitir que os desenvolvedores da web de HTML sejam totalmente integrados ao projeto AEM e como isso pode ser possível. Saiba mais sobre os novos componentes de base, que são criados com JavaScript do lado do servidor e com HTL, e como reutilizá-los e estendê-los.
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Criar componentes reutilizáveis com eficiência{#efficiently-build-reusable-components}
+# Crie componentes reutilizáveis com eficiência{#efficiently-build-reusable-components}
 
-Com os plug-ins Brackets e Eclipse IDE, a linguagem do modelo HTL e os novos componentes fundamentais, o Adobe Experience Manager 6.0 traz um novo giro para o fluxo de trabalho de desenvolvimento de componentes. Saiba por que é essencial que sua equipe tenha eficiência para permitir que os desenvolvedores da Web do HTML sejam totalmente integrados ao projeto do AEM e como isso pode ser feito. Saiba também sobre os novos componentes fundamentais, que são criados com JavaScript do lado do servidor e com HTL, e como reutilizá-los e estendê-los. Esta é uma sessão de acompanhamento de &quot;Introdução ao HTL&quot;, enquanto recomendamos que, em ambas as sessões, não haja necessidade de participar de ambas.
+Com os plug-ins Brackets e Eclipse IDE, a linguagem de modelo HTL e os novos componentes de base, o Adobe Experience Manager 6.0 traz uma nova rotação para o fluxo de trabalho de desenvolvimento de componentes. Saiba por que é essencial para a eficiência da sua equipe permitir que os desenvolvedores da web de HTML sejam totalmente integrados ao projeto AEM e como isso pode ser possível. Saiba mais sobre os novos componentes de base, que são criados com JavaScript do lado do servidor e com HTL, e como reutilizá-los e estendê-los. Esta é uma sessão de acompanhamento de &quot;Introdução ao HTL&quot;, enquanto recomendamos participar de ambas as sessões, não há requisito para participar de ambas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19503/?quality=9)
 
@@ -22,7 +22,7 @@ Com os plug-ins Brackets e Eclipse IDE, a linguagem do modelo HTL e os novos com
 
 **Apresentado por:**
 
-Gabriel Walt, Gerente de produtos, Adobe
+Gabriel Walt, gerente de produto, Adobe
 
 **Slides do apresentador**
 
@@ -34,7 +34,7 @@ Gabriel Walt, Gerente de produtos, Adobe
 
 ## Links relacionados {#related-links}
 
-[AEM Extensão de Colchetes HTL](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
+[Extensão de colchetes HTL para AEM](https://github.com/Adobe-Marketing-Cloud/aem-brackets-extension#AEM6#BeautifulMarkup)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

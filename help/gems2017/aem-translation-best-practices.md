@@ -1,20 +1,20 @@
 ---
 title: AEM 6.3 pronto para o mundo - Integração de tradução e práticas recomendadas
-description: 'Nesta sessão, apresentaremos AEM recursos 6.3 e práticas recomendadas para gerenciar sites multilíngues. Você aprenderá a estruturar sites globais em AEM, a usar cópias de idioma, cópias ao vivo e MSM, e a integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução. '
+description: Nesta sessão, apresentaremos os recursos e as práticas recomendadas do AEM 6.3 para o gerenciamento de sites multilíngues. Você aprenderá a estruturar sites globais no AEM, a usar cópias de idioma, live copies e MSM e a integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução.
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 1a4aaf0e-45f7-4b22-ac32-aee1be111553
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 1%
 
 ---
 
-
 # AEM 6.3 pronto para o mundo - Integração de tradução e práticas recomendadas{#aem-ready-for-the-world-translation-integration-best-practices}
 
-Nesta sessão, apresentaremos AEM recursos 6.3 e práticas recomendadas para gerenciar sites multilíngues. Você aprenderá a estruturar sites globais em AEM, a usar cópias de idioma, cópias ao vivo e MSM, e a integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução.
+Nesta sessão, apresentaremos os recursos e as práticas recomendadas do AEM 6.3 para o gerenciamento de sites multilíngues. Você aprenderá a estruturar sites globais no AEM, a usar cópias de idioma, live copies e MSM e a integrar provedores de serviços de tradução para a conclusão bem-sucedida de projetos de tradução.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
@@ -22,8 +22,8 @@ Nesta sessão, apresentaremos AEM recursos 6.3 e práticas recomendadas para ger
 
 **Apresentado por:**
 
-Leandro Reis, Arquiteto da Globalização, Adobe Core Services\
-Mathias Siegel, Gerente sênior De Produtos, [!DNL AEM Sites], Adobe
+Leandro Reis, arquiteto de globalização, Adobe Core Services\
+Mathias Siegel, Gerente De Produto Sênior, [!DNL AEM Sites], ADOBE
 
 **Slides do apresentador**
 
@@ -31,6 +31,6 @@ Mathias Siegel, Gerente sênior De Produtos, [!DNL AEM Sites], Adobe
 
 ## Links relacionados {#related-links}
 
-* [Documentos de tradução AEM Sites](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
+* [Documentos de tradução do AEM Sites](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
 * [Gerenciamento de ativos multilíngues](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
 * [Documentação de práticas recomendadas de tradução](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)

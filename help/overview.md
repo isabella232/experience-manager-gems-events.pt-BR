@@ -1,6 +1,6 @@
 ---
-title: AEM Sessões do GEM
-description: Esta é a landing page para GEMs AEM incluindo informações sobre a série de webinários e informações de registro, webinars anteriores e futuros
+title: Sessões GEM com AEM
+description: Esta é a página de aterrissagem dos GEMs do AEM, incluindo informações sobre a série de webinários e informações de registro, webinários anteriores e futuros
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -9,7 +9,7 @@ solution: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM Sessões do GEM
+user-guide-description: Sessões GEM com AEM
 source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 <img alt="Experiências digitais" src="./assets/ADX_Gems.png"/>
 
-## Evento GEMs de AEM anterior!
+## Evento anterior de GEMs AEM!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,34 +43,34 @@ ht-degree: 2%
 </table>
 
 --->
-Nosso último webinário de GEMs de AEM no **Acelerando o desenvolvimento do Adobe Experience Manager Cloud Service com ambientes de desenvolvimento rápido** foi realizada em *22 de fevereiro de 2023*.
-O **gravação** pode ser encontrada aqui: [Webinar de ambientes de desenvolvimento rápido AEM](/help/gems2023/Rapid-Development-Environments.md)
+Nosso mais recente webinário de GEMs com AEM em **Acelerando o desenvolvimento de Cloud Service Adobe Experience Manager com ambientes de desenvolvimento rápido** foi realizada em *22 de fevereiro de 2023*.
+A variável **gravação** podem ser encontrados aqui: [Webinário de desenvolvimento rápido de AEM](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
-> Cadastre-se para ser notificado sobre os próximos webinars de GEMs AEM em [Grupo de AEM](https://aem-augs.adobe.com/).
+> Cadastre-se para ser notificado sobre os próximos webinários de GEMs para AEM em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/).
 
-## Lançamento de GEMs AEM em 2022
+## Lançamento dos GEMs do AEM em 2022
 
-Bem-vindo ao **AEM GEMs** - nossa série de webinários de aprofundamentos técnicos no Adobe Experience Manager, fornecidos por especialistas em Adobe. Esta série é um complemento da documentação do produto e de todos os outros canais técnicos relacionados ao Adobe Experience Manager, permitindo que os desenvolvedores entrem em contato e aprofundem o assunto.
+Bem-vindo a **GEMs AEM** - nossa série de webinários de aprofundamentos técnicos sobre o Adobe Experience Manager, oferecidos por especialistas do Adobe. Esta série é um complemento da documentação do produto e de todos os outros canais técnicos relacionados ao Adobe Experience Manager, permitindo que os desenvolvedores entrem em contato e aprofundem o assunto.
 
-Os webinars serão realizados regularmente, incluindo:
+Os webinários serão conduzidos regularmente, incluindo o seguinte:
 
 * Uma duração máxima de 60 minutos
-* Perguntas e respostas no final e especialistas em bate-papo disponíveis em todo o webinário
-* Registro disponível após cada webinário
+* Perguntas e respostas ao final e especialistas em chat disponíveis durante o webinário
+* Gravação disponível após cada webinário
 * O webinário é gratuito
 
-Todos os nossos webinários de GEMs AEM são gratuitos e executados virtualmente.
+Todos os nossos webinários de AEM GEMs são gratuitos e realizados virtualmente.
 
-Inscreva-se em [Grupo de AEM](https://aem-augs.adobe.com/) para obter notificações sobre nossos próximos webinars.
+Registrar em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado sobre nossos próximos webinars.
 
 ## Comunidade Experience League
 
-Nosso [Comunidade Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) desempenhar um papel fundamental no suporte à adoção de produtos e ao sucesso do cliente.
+Nosso [Comunidade Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) desempenhar um papel essencial no suporte à adoção de produtos e ao sucesso dos clientes.
 
-* Conexão: Rede com colegas e Adobe para obter orientação e práticas recomendadas, desde a implementação até a expansão do uso do produto
-* Respostas rápidas: Amplo pool de respostas de casos de uso reais para oferecer suporte ao uso ativo bem-sucedido das soluções do Adobe
-* Ideação e feedback: Receba ideias de produtos do cliente e forneça comentários VoC valiosos para equipes de produtos
+* Conexão: rede com colegas e pessoal da Adobe para orientação e práticas recomendadas, desde a implementação até a expansão do uso do produto
+* Respostas rápidas: amplo conjunto de respostas reais para casos de uso que dão suporte ao uso ativo bem-sucedido de soluções Adobe
+* Ideação e feedback: incorpore ideias de produtos do cliente e forneça feedback de VoC valioso para as equipes de produtos
 
 

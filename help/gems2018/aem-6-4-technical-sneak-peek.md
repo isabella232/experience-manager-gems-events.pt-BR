@@ -1,20 +1,20 @@
 ---
-title: Aprofundamento do Adobe Experience Manager 6.4
-description: O Experience Manager oferece uma solução ágil para projetar, antecipar e fornecer experiências rapidamente adaptáveis na Web, em dispositivos móveis e em qualquer ponto final na jornada do cliente. Participe desta sessão para visualizar os principais recursos e integrações da próxima versão do Adobe Experience Manager 6.4.
+title: Análise detalhada do Adobe Experience Manager 6.4
+description: O Experience Manager oferece uma solução ágil para projetar, antecipar e fornecer experiências rapidamente adaptáveis na Web, em dispositivos móveis e em qualquer ponto final da jornada do cliente. Participe desta sessão para visualizar os principais recursos e integrações da próxima versão do Adobe Experience Manager 6.4.
 uuid: 6cb2db2b-f465-412f-8039-e0281454b264
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 792ad05c-aa03-4988-8079-457bb9ac4b54
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 1%
 
 ---
 
+# Análise detalhada do Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-# Aprofundamento do Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
-
-O Experience Manager oferece uma solução ágil para projetar, antecipar e fornecer experiências rapidamente adaptáveis na Web, em dispositivos móveis e em qualquer ponto final na jornada do cliente. Participe desta sessão para visualizar os principais recursos e integrações da próxima versão do Adobe Experience Manager 6.4. A Agenda abordará: Visão geral do AEM 6.4 | Componentes principais 2 | Sistema de estilos | Alterações de caminho devido à separação de conteúdo de aplicativos/produtos | Alterações no Oak e Sling - incl. configuração sensível ao contexto | Torne aplicativos de página única editáveis com foco no React
+O Experience Manager oferece uma solução ágil para projetar, antecipar e fornecer experiências rapidamente adaptáveis na Web, em dispositivos móveis e em qualquer ponto final da jornada do cliente. Participe desta sessão para visualizar os principais recursos e integrações da próxima versão do Adobe Experience Manager 6.4. A agenda abrangerá: Visão geral do AEM 6.4 | Componentes principais 2 | Sistema de Estilos | Alterações de caminho devido à separação de conteúdo de aplicativos/produto | Alterações no Oak e Sling - incl. configuração sensível ao contexto | Tornar aplicativos de página única editáveis com foco no React
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
@@ -22,9 +22,9 @@ O Experience Manager oferece uma solução ágil para projetar, antecipar e forn
 
 **Apresentado por:**
 
-Gabriel Walt, Gerente de produtos, Adobe
+Gabriel Walt, gerente de produto, Adobe
 
-Cedric Huesler, Director Product Management, Adobe
+Cedric Huesler, Gerenciamento de produtos Director, Adobe
 
 **Slides do apresentador**
 

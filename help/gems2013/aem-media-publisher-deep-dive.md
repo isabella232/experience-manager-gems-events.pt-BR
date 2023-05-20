@@ -1,6 +1,6 @@
 ---
-title: mergulho profundo do Media Publisher do AEM 5.6
-description: Obtenha uma visão geral da Commerce Framework CQ 5.6 de uma perspectiva arquitetônica. Saiba mais sobre os detalhes da implementação de referência, com base no repositório JCR.
+title: Aprofundamento do Editor de mídia AEM 5.6
+description: Obtenha uma visão geral da Estrutura de comércio do CQ 5.6 de uma perspectiva arquitetônica. Saiba mais sobre os detalhes da implementação de referência, com base no repositório JCR.
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# mergulho profundo do Media Publisher do AEM 5.6 {#aem-media-publisher-deep-dive}
+# Aprofundamento do Editor de mídia AEM 5.6 {#aem-media-publisher-deep-dive}
 
-Como parte do Adobe Experience Manager, o CQ 5.6 fornece uma nova Estrutura de comércio para criar sites de comércio orientado pela experiência em uma plataforma de comércio de terceiros. Esta sessão fornece uma visão geral da estrutura de uma perspectiva arquitetônica e apresenta alguns detalhes da implementação de referência, com base no repositório JCR.
+Como parte do Adobe Experience Manager, o CQ 5.6 fornece uma nova Estrutura de comércio para criar sites de comércio orientados por experiência sobre uma plataforma de comércio de terceiros. Esta sessão fornece uma visão geral da estrutura de uma perspectiva arquitetônica e apresenta alguns detalhes da implementação de referência, com base no repositório JCR.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
@@ -30,6 +30,6 @@ John Fait
 
 ## Links relacionados {#related-links}
 
-* [Documentação](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [Página do produto DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [Cloud Service DPS](https://digitalpublishing.acrobat.com/welcome.html)
+* [Documentação](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html).
+* [Página de produto da DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [CLOUD SERVICE DPS](https://digitalpublishing.acrobat.com/welcome.html)

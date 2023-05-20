@@ -1,29 +1,29 @@
 ---
 title: Solr como um índice Oak para AEM
-description: 'AEM recursos de pesquisa de texto completo são fornecidos por índices Oak Lucene por padrão. No entanto, AEM também pode descarregar a indexação e pesquisar servidores / clusters Solr por meio de índices Oak Solr. Nesta sessão do Gem, mergulhamos em alguns cenários práticos da vida real em que o uso do Solr como um índice Oak para AEM faz sentido em termos de desempenho e recursos de indexação/pesquisa. '
+description: Os recursos de pesquisa de texto completo do AEM são fornecidos por índices Oak Lucene por padrão. No entanto, o AEM também pode descarregar a indexação e a pesquisa em servidores/clusters Solr por meio de índices Oak Solr. Nesta sessão Gem, mergulhamos em alguns cenários práticos da vida real, onde usar Solr como um índice Oak para AEM faz sentido em termos de desempenho e recursos de indexação/pesquisa.
 uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+exl-id: 59a2da8f-a3c3-44e5-8775-59cac1b7bb8e
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 1%
 
 ---
 
-
 # Solr como um índice Oak para AEM{#solr-as-an-oak-index-for-aem}
 
-AEM recursos de pesquisa de texto completo são oferecidos por [!DNL Oak Lucene] índices por padrão. No entanto, AEM também pode descarregar a indexação e pesquisar para [!DNL Solr] servidores / clusters por meio de [!DNL Oak Solr] índices. Nesta sessão do Gem, mergulhamos em alguns cenários práticos da vida real em que o uso de [!DNL Solr] como um índice Oak para AEM faz sentido em termos de desempenho e recursos de indexação/pesquisa.
+Os recursos de pesquisa de texto completo do AEM são fornecidos pelo [!DNL Oak Lucene] índices por padrão. No entanto, o AEM também pode descarregar indexação e pesquisa para [!DNL Solr] servidores/clusters por meio de [!DNL Oak Solr] índices. Nesta sessão Gem, mergulhamos em alguns cenários práticos da vida real onde usar [!DNL Solr] como um índice Oak para AEM faz sentido em termos de desempenho e recursos de indexação/pesquisa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23023/?quality=9)
 
-*Entregue em 18/07/2018*
+*Entregues em 18/07/2018*
 
 **Apresentado por:**
 
-Tommaso Teofili, Cientista da Computação, Adobe
+Tommaso Teofili, cientista da computação, Adobe
 
 Data: 18/07/2018
 
@@ -35,8 +35,8 @@ Data: 18/07/2018
 
 >[!MORELIKETHIS]
 >
->* [Eventos do Adobe I/O - Acionadores do Analytics](aem-analytics-triggers.md)
->* [Desbloquear análises de ativos mais poderosas com o AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Eventos Adobe I/O - Acionadores do Analytics](aem-analytics-triggers.md)
+>* [Como destravar a análise de ativos mais avançados com o AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 
 <!-- wrong link, needs to be replaced. removed for now:

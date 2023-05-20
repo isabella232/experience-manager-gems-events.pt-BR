@@ -1,6 +1,6 @@
 ---
-title: Crie sites mais rápido com AEM Headless e o App Builder
-description: Assista a uma apresentação e demonstração sobre como inicializar e implantar rapidamente o aplicativo de página única (SPA) usando as ferramentas de fluxo de trabalho do Adobe App Builder .
+title: Crie sites mais rapidamente com AEM Headless e o Construtor de aplicativos
+description: Assista a uma apresentação e demonstração sobre como inicializar e implantar rapidamente o aplicativo de página única (SPA) usando os fluxos de trabalho do Construtor de aplicativos Adobe e as ferramentas ANT.
 version: Cloud Service, 6.5
 feature: App Builder
 topic: Headless
@@ -8,26 +8,27 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
+exl-id: c1d5f9e2-58b0-4bc8-be70-a763ea7df644
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
+# Crie sites mais rapidamente com AEM Headless e o Construtor de aplicativos
 
-# Crie sites mais rápido com AEM Headless e o App Builder
+Esta gravação do webinar de GEMs de AEM inclui uma apresentação e uma demonstração sobre o seguinte:
 
-Esta gravação do webinário de GEMs AEM inclui uma apresentação e uma demonstração sobre o seguinte:
-
-Inicialize e implante rapidamente aplicativos de página única (SPA) usando fluxos de trabalho e ferramentas do Adobe App Builder, sem precisar de recursos tradicionais de Experience Manager, como Java e Sling. Com o Experience Manager Headless, os profissionais de marketing e desenvolvedores podem ter experiência em seu próprio domínio. Os desenvolvedores controlam a estrutura geral do aplicativo, enquanto os profissionais de marketing determinam o conteúdo e como ele é exibido.
+Inicialize e implante rapidamente aplicativos de página única (SPA) usando os fluxos de trabalho e ferramentas do Construtor de aplicativos Adobe, sem a necessidade de ter habilidades tradicionais de Experience Manager, como Java e Sling. Com o Experience Manager Headless, profissionais de marketing e desenvolvedores podem ter experiência em seus próprios domínios. Os desenvolvedores controlam a estrutura geral do aplicativo, enquanto os profissionais de marketing determinam o conteúdo e como ele é exibido.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-Este webinário foi realizado em 23 de março de 2022 e apresentado por Duy Nguyen, Engenheiro de Desenvolvimento de Software
+Esse webinário foi realizado em 23 de março de 2022 e apresentado por Duy Nguyen, engenheiro de desenvolvimento de software
 
 >[!MORELIKETHIS]
 >
->* [Página Evento do grupo de usuários do Adobe Experience Manager correspondente](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
->* [Thread Contextual Correspondente](https://adobe.ly/3LkSWdm)
->* Registre-se em [Grupo de AEM](https://aem-augs.adobe.com/) para obter notificações sobre webinars futuros.
+>* [Página correspondente do Evento do grupo de usuários do Adobe Experience Manager](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+>* [Thread contextual correspondente](https://adobe.ly/3LkSWdm)
+>* Registre-se em [Grupo de usuários do Adobe AEM](https://aem-augs.adobe.com/) para ser notificado sobre webinários futuros.
+

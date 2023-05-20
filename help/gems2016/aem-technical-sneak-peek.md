@@ -1,6 +1,6 @@
 ---
-title: Busca técnica
-description: Junte-se a Gabriel Walt e a Justin Edelson para dar uma olhada no que temos trabalhado para a próxima geração de Adobe Experience Manager em uma palestra técnica.
+title: Technical Sneak Peek
+description: Junte-se a Gabriel Walt e Justin Edelson para dar uma olhada no que estamos trabalhando para a próxima geração do Adobe Experience Manager em uma palestra técnica.
 uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
@@ -12,9 +12,9 @@ ht-degree: 2%
 
 ---
 
-# Busca técnica{#technical-sneak-peek}
+# Technical Sneak Peek{#technical-sneak-peek}
 
-Junte-se a Gabriel Walt e a Justin Edelson para dar uma olhada no que temos trabalhado para a próxima geração de Adobe Experience Manager em uma palestra técnica.
+Junte-se a Gabriel Walt e Justin Edelson para dar uma olhada no que estamos trabalhando para a próxima geração do Adobe Experience Manager em uma palestra técnica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
@@ -22,8 +22,8 @@ Junte-se a Gabriel Walt e a Justin Edelson para dar uma olhada no que temos trab
 
 **Apresentado por:**
 
-* Gabriel Walt, Gerente de produtos, Adobe
-* Justin Edelson, Arquiteto da Experiência e Evangelista, Adobe
+* Gabriel Walt, gerente de produto, Adobe
+* Justin Edelson, arquiteto e evangelista da experiência, Adobe
 
 **Slides do apresentador**
 

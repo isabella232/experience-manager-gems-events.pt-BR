@@ -1,6 +1,6 @@
 ---
 title: AEM [!DNL Forms] Introdução ao Feature Pack 1 e amostras técnicas
-description: AEM [!DNL Forms] O Feature Pack 1 é o caminho de atualização para implantações do LiveCycle e estende o alcance dessas implementações para incluir todos os recursos do AEM [!DNL Forms] mais. Além disso, tornou pública uma introdução às amostras orientadas para o cliente.
+description: AEM [!DNL Forms] O Feature Pack 1 é o caminho de atualização para implantações de LiveCycles e estende o alcance dessas implementações para incluir todos os recursos do AEM [!DNL Forms] mais. Além disso, uma introdução às amostras direcionadas ao cliente foi tornada pública.
 uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # AEM [!DNL Forms] Introdução ao Feature Pack 1 e amostras técnicas{#aem-forms-feature-pack-introduction-and-technical-samples}
 
-AEM [!DNL Forms] O Feature Pack 1 é o caminho de atualização para implantações do LiveCycle e estende o alcance dessas implementações para incluir todos os recursos do AEM [!DNL Forms] mais. Além disso, tornou pública uma introdução às amostras orientadas para o cliente.
+AEM [!DNL Forms] O Feature Pack 1 é o caminho de atualização para implantações de LiveCycles e estende o alcance dessas implementações para incluir todos os recursos do AEM [!DNL Forms] mais. Além disso, uma introdução às amostras direcionadas ao cliente foi tornada pública.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
@@ -22,8 +22,8 @@ AEM [!DNL Forms] O Feature Pack 1 é o caminho de atualização para implantaç�
 
 **Apresentado por:**
 
-* Steve Monroe, Gerente Sênior de Soluções Empresariais, Adobe
-* Girish Bedekar, Evangelista de Solução de LiveCycle, Adobe
+* Steve Monroe, Gerente sênior de soluções corporativas, Adobe
+* Girish Bedekar, Divulgador de soluções para LiveCycles, Adobe
 
 **Slides do apresentador**
 
