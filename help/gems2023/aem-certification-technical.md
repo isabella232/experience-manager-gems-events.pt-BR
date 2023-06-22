@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Principal a arte da certificação de Experience Manager: Prepare-se, Prepare-se, Obtenha certificação!
 
-Esse webinário será realizado em 28 de junho de 2023 (8h PST). Registre-se por meio deste [link da página de eventos](https://adobe.ly/3Ni6XeL).
+Este webinário será realizado em **28 de junho**, 2023 (8h PST). Registre-se por meio deste [link da página de eventos](https://adobe.ly/3Ni6XeL).
 
 ## Descrição da sessão
 
